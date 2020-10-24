@@ -52,5 +52,3 @@ subtitle = ""
 
 ## Kabiru Maitama Kura, Ph.D.
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
-
