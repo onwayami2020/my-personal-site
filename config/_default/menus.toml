@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Teaching"  # A link title for your page.
+  url = "http://www.utb.edu.bn/academics/utb-school-of-business/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
