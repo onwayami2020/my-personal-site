@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kabiru Maitama Kura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Organisational Behaviour
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: UTB School of Business, Universiti Teknologi Brunei
+  url: "http://www.utb.edu.bn/academics/utb-school-of-business/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:kabiru.kura@utb.edu.bn or kabiru@kmkura.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kmkura
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -69,6 +69,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kabiru Maitama Kura is an Assistant Professor of Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. His research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Human Resource Management from Universiti Utara Malaysia. Kabiru has published in SCOPUS, Web of Science, ABS Ranking and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
+
+He is a member, Asian Fellowship of Academic Professionals (AFAP), member, Nigerian Institute of Management (Chartered), Member, Commodity Brokers Association of Nigeria, member, Nigerian Institute of Management (Chartered), member, Institute of Management Consultants of Nigeria.
+
+Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
