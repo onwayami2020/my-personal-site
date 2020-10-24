@@ -14,8 +14,8 @@
   weight = 50  # The position of your page in the menu.
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
