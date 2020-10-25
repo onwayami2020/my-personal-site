@@ -100,14 +100,14 @@ address = {street = "UTB School of Business, Universiti Teknologi Brunei", city 
 coordinates = {latitude = "4.9778279", longitude = "114.9000285"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Psase 1 Building 1 and take the stairs to Office 2F.72 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/kmkura"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
