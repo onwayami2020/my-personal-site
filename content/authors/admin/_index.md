@@ -14,7 +14,7 @@ organizations:
   url: "http://www.utb.edu.bn/academics/utb-school-of-business/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership.
 
 interests:
 - Workplace deviance
