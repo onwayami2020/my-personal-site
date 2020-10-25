@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-## Welcome to kmkura.com
+## Academician & Researcher
 
