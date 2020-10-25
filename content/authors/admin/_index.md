@@ -17,21 +17,24 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Workplace deviance
+- Organisational citizenship behaviour
+- Green behaviour at work
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Human Resource Management
+    institution: Universiti Utara Malaysia
+    year: 2014
+  - course: MSc in Business Administration
+    institution: Ahmadu Bello University Zaria, Nigeria
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Business Administration (MBA)
+    institution: Ahmadu Bello University Zaria, Nigeria
+    year: 2004
+  - course: BSc in Business Administration
+    institution: Bayero University Kano, Nigeria
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/onwayami2020
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
