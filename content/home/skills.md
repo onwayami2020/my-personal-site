@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "10%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Partial Least Squares Path Modeling (PLS-SEM)"
+  description = "80%"  
   
 [[feature]]
   icon = "camera-retro"
