@@ -100,7 +100,7 @@ address = {street = "UTB School of Business, Universiti Teknologi Brunei", city 
 coordinates = {latitude = "4.9778279", longitude = "114.9000285"}
 
 # Directions for visitors to locate you.
-directions = "Enter Psase 1 Building 1 and take the stairs to Office 2F.72 on Floor 2"
+directions = "Enter Phase 2 Building and take the stairs to Office 2F.72 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
