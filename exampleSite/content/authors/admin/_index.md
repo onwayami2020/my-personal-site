@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kabiru Maitama Kura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of HRM & Organisational Behaviour
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UTB School of Business, Universiti Teknologi Brunei
+  url: http://www.utb.edu.bn/academics/utb-school-of-business/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Human Resource Management
+    institution: Universiti Utara Malaysia
+    year: 2014
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kmkura
 - icon: graduation-cap  # OR `google-scholar`
   icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/onwayami2020
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/dr-kabiru-maitama-kura-6272aa34/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
