@@ -48,7 +48,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/kmkura
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
