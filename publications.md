@@ -10,6 +10,14 @@ weight = 90  # Order that this section will appear.
 title = "Recent Publications"
 subtitle = ""
 
+title={Linking customer relationship management to behavioral intentions in Islamic banking system: evidence from Nigeria},
+	author={Kura, Kabiru Maitama},
+	journal={Journal of Entrepreneurship and Business},
+	volume={4},
+	number={1},
+	pages={15--25},
+	year={2016}
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
