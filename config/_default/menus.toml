@@ -34,11 +34,6 @@
   weight = 50  # The position of your page in the menu.
   
  [[main]]
-  name = "ResearchGate"  # A link title for your page.
-  url = "https://www.researchgate.net/profile/Kabiru_Kura"  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
-
-[[main]]
   name = "Publons"  # A link title for your page.
   url = "https://publons.com/researcher/1314624/kabiru-maitama-kura/"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
