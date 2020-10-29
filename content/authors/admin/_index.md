@@ -41,9 +41,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:kabiru@kmkura.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:kabiru.kura@utb.edu.bn or kabiru@kmkura.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kmkura
@@ -53,13 +50,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
-  icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
-  icon: scopus
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=55622403400
-- icon: researchgate
+ - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Kabiru_Kura
   icon: mendeley
