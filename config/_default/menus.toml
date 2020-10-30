@@ -45,7 +45,7 @@
 
 [[main]]
   name = "Mendeley"  # A link title for your page.
-  url = "https://www.mendeley.com/profiles/kabiru-maitama-kura2/"  # The URL of your page.
+  url = "https://www.mendeley.com/profiles/kabiru-maitama-kura2/?viewAsOther=true"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 [[main]]
