@@ -34,8 +34,8 @@
   weight = 50  # The position of your page in the menu.
   
  [[main]]
-  name = "Publons"  # A link title for your page.
-  url = "https://publons.com/researcher/1314624/kabiru-maitama-kura/"  # The URL of your page.
+  name = "ORCiD"  # A link title for your page.
+  url = "https://orcid.org/0000-0001-7863-2604"  # The URL of your page.
   weight = 50  # The position of your page in the menu.
 
 [[main]]
