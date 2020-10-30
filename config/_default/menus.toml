@@ -44,6 +44,11 @@
   weight = 50  # The position of your page in the menu.
 
 [[main]]
+  name = "Mendeley"  # A link title for your page.
+  url = "https://www.mendeley.com/profiles/kabiru-maitama-kura2/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
