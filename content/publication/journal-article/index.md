@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
-authors:
+title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate"
+authors: Ahmed, Umair and Kura, Kabiru Maitama and Umrani, Waheed Ali and Pahi, Munwar Hussain
 - admin
-- Robert Ford
+- Kabiru Maitama Kura
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2020"
+doi: "10.1177/0972150919837813"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,17 +19,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Global Business Review, 21*(1), 31-53"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The purpose of this article is to examine the relationship between developmental human resource (HR) practices and work engagement by focusing on the moderating role of service climate. Specifically, employee training opportunities, career developmental opportunities, and developmental performance appraisal were cast as the key dimensions of developmental HR practices. We used cross-sectional data with survey from 277 employees in six large banks in Pakistan. The results suggest that each of the dimensions of developmental HR practices was positively related to work engagement. Also, service climate was found to moderate the relationship between training opportunities and work engagement. Similarly, results showed that service climate moderated relationship between career developmental opportunities and work engagement. Regarding the practical implications, results suggest that policymakers should consider enriching HR factors by providing supportive environment, feedback and service climate to enhance employee engagement. In terms of originality, we contended that, to date, there is paucity of empirical study linking developmental HR practices to employees' work engagement. Hence, the present study addressed this gap by examining the relationship between developmental HR practices and work engagement, as well as the boundary condition on these relationships.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
