@@ -20,6 +20,9 @@ social:
   - link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - icon_pack: ai
+    icon: publons
+    link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Kabiru_Kura
@@ -30,8 +33,8 @@ social:
     icon: mendeley
     link: https://www.mendeley.com/profiles/kabiru-maitama-kura2/?viewAsOther=true
   - icon_pack: ai
-    icon: publons
-    link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
+    icon: scopus
+    link: https://www.scopus.com/dashboard.uri?origin=searchbasic&zone=TopNavBar
 organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academics/utb-school-of-business/
