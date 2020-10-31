@@ -1,12 +1,12 @@
 ---
 title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate An example journal article"
-authors:
+authors: Ahmed, Umair and Kura, Kabiru Maitama and Umrani, Waheed Ali and Pahi, Munwar Hussain
 - admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1177/0972150919837813"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
