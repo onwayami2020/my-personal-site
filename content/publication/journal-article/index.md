@@ -2,7 +2,7 @@
 title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate An example journal article"
 authors:
 - admin
-- Robert Ford
+- Kabiru Maitama Kura
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
