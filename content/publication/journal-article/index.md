@@ -2,7 +2,7 @@
 title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate"
 authors: Ahmed, Umair and Kura, Kabiru Maitama and Umrani, Waheed Ali and Pahi, Munwar Hussain
 - admin
-- Kabiru Maitama Kura
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
