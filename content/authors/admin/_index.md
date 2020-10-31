@@ -17,18 +17,21 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-kabiru-maitama-kura-6272aa34/
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Kabiru_Kura
   - link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Kabiru_Kura
   - link: https://orcid.org/0000-0001-7863-2604
     icon_pack: ai
     icon: orcid
   - icon_pack: ai
     icon: mendeley
     link: https://www.mendeley.com/profiles/kabiru-maitama-kura2/?viewAsOther=true
+  - icon_pack: ai
+    icon: publons
+    link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
 organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academics/utb-school-of-business/
