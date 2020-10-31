@@ -21,8 +21,8 @@ social:
     icon_pack: ai
     icon: google-scholar
   - icon_pack: ai
-    icon: scopus
-    link: https://www.scopus.com/dashboard.uri?origin=searchbasic&zone=TopNavBar
+    icon: mendeley
+    link: https://www.mendeley.com/profiles/kabiru-maitama-kura2/?viewAsOther=true
   - icon_pack: ai
     icon: publons
     link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
