@@ -19,11 +19,6 @@
   weight = 30
 
 [[main]]
-  name = "Useful Links"
-  url = "#usefullinks"
-  weight = 30
-
-[[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
