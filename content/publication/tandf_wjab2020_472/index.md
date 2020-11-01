@@ -1,15 +1,15 @@
 ---
-title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate"
+title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
 authors:
-- "Ahmed, Umair and Kura, Kabiru Maitama and Umrani, Waheed Ali and Pahi, Munwar Hussain"
+- "Kabiru Maitama Kura and Faridahwati Mohd. Shamsudin and Waheed Ali Umrani and Noor Maya Salleh"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: "https://doi.org/10.1177/0972150919837813"
+doi: "https://doi.org/10.1080/15228916.2019.1583974"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Global Business Review, 21*(1), 31-53"
+publication: "*Journal of African Business, 20*(4), 472-488"
 publication_short: ""
 
-abstract: The purpose of this article is to examine the relationship between developmental human resource (HR) practices and work engagement by focusing on the moderating role of service climate. Specifically, employee training opportunities, career developmental opportunities, and developmental performance appraisal were cast as the key dimensions of developmental HR practices. We used cross-sectional data with survey from 277 employees in six large banks in Pakistan. The results suggest that each of the dimensions of developmental HR practices was positively related to work engagement. Also, service climate was found to moderate the relationship between training opportunities and work engagement. Similarly, results showed that service climate moderated relationship between career developmental opportunities and work engagement. Regarding the practical implications, results suggest that policymakers should consider enriching HR factors by providing supportive environment, feedback and service climate to enhance employee engagement. In terms of originality, we contended that, to date, there is paucity of empirical study linking developmental HR practices to employees’ work engagement. Hence, the present study addressed this gap by examining the relationship between developmental HR practices and work engagement, as well as the boundary condition on these relationships.
+abstract: Although there is strong evidence in the literature to support the relationship between human resource development (HRD) practices and counterproductive work behavior (CWB), little is known about the psychological processes underlying this relationship. The present study examined whether employee engagement mediates the relationship between HRD practices and CWB. Participants were 271 employees enroled in a part-time Master of Business Administration (MBA) program at a large public university in Nigeria. After controlling for demographic characteristics, results showed that HRD practices were negatively related to CWB. The results also indicated that employee engagement plays a role in mediating the relationship between HRD practices and CWB.
 
 # Summary. An optional shortened abstract.
-summary: The purpose of this article is to examine the relationship between developmental human resource (HR) practices and work engagement by focusing on the moderating role of service climate. Specifically, employee training opportunities, career developmental opportunities, and developmental performance appraisal were cast as the key dimensions of developmental HR practices.
+summary: The present study examined whether employee engagement mediates the relationship between HRD practices and CWB.
 
 tags:
 - Source Themes
