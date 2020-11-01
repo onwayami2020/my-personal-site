@@ -1,10 +1,10 @@
 ---
-title: "An example conference paper"
-authors:
+title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis An example conference paper"
+authors:Kabiru Maitama Kura, Noor Maya Salleh, Mohamed Saleem Haja Nazmudeen
 - admin
 - Robert Ford
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.15405/epsbs.2020.10.61"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *European Proceedings of Social and Behavioural Sciences - Volume 88 - AAMC 2019 Source Themes Conference*
+publication_short: In *EpSBSSTC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Over the past three decades, transformational leadership has emerged as a significant antecedent of employee performance across a wide variety of contexts. Prior research has employed meta-analysis to confirm the effect of transformational leadership on job performance. While researchers and practitioners in the field of industrial and organizational psychology have relied heavily on meta-analyses, however, this approach are time consuming and also becoming increasingly difficult to obtain effect sizes as the amount of available research grows exponentially. To address this concern, we utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performance. As expected, the meta-analysis confirmed the positive relationship between transformational leadership and job performance. The practical implications and suggestions for future research have been discussed.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performanceLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -30,8 +30,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://www.europeanproceedings.com/article/10.15405/epsbs.2020.10.61http://example.org
+url_pdf: https://www.europeanproceedings.com/files/data/article/1023/11164/article_1023_11164_pdf_100.pdfhttp://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
