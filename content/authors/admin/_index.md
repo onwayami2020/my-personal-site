@@ -32,6 +32,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Kabiru_Kura
+  - link: https://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academics/utb-school-of-business/
