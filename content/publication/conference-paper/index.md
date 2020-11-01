@@ -2,7 +2,7 @@
 title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis An example conference paper"
 authors:
 - admin
-- Robert Ford
+- Kabiru Maitama Kura, Noor Maya Salleh, Mohamed Saleem Haja NazmudeenRobert Ford
 date: "2013-07-01T00:00:00Z"
 doi: "10.15405/epsbs.2020.10.61"
 
