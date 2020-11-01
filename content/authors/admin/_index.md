@@ -21,9 +21,6 @@ social:
     icon_pack: ai
     icon: google-scholar
   - icon_pack: ai
-    icon: mendeley
-    link: https://www.mendeley.com/profiles/kabiru-maitama-kura2/?viewAsOther=true
-  - icon_pack: ai
     icon: publons
     link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
   - link: https://orcid.org/0000-0001-7863-2604
