@@ -26,7 +26,7 @@ summary: We utilized metaBUS, a cloud-based research synthesis platform to ident
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link
