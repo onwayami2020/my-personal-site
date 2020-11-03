@@ -1,5 +1,5 @@
 ---
-title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis An example conference paper"
+title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis"
 authors:
 - admin
 - Noor Maya Salleh, Mohamed Saleem Haja Nazmudeen
