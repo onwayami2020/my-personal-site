@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 date: "2020-11-06T05:00:00+01:00"
-draft: true
+draft: false
 share: true
 commentable: false
 editable: false
