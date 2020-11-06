@@ -12,8 +12,6 @@ header:
   image: ""
 ---
 
-K. M. Kura Online - Privacy Policy
-
 Last updated: November 06, 2020
 
 This privacy notice aims to inform you about how I collect and process any information that I collect from you, or that you provide to me. It covers information that could identify you (“personal information”) and information that could not. In the context of the law and this notice, “process” means collect, store, transfer, use or otherwise act on information. It tells you about your privacy rights and how the law protects you.
@@ -140,6 +138,4 @@ I may update my Privacy Policy from time to time. I will notify You of any chang
 Contact me
 If you have any questions about this Privacy Policy, you can contact me:
 •	By email: kmkura@gmail.com 
-
-https://drive.google.com/file/d/1W_LDeg-JgE4KKGyx1cHcxME1sZKrIZ5_/view?usp=sharing
 
