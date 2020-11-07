@@ -1,6 +1,5 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Useful Links
 math: false
 diagram: false
 image:
