@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Useful Links
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: The following are some useful links:
 weight: 1
 
 # Page metadata.
@@ -12,9 +12,5 @@ type: docs  # Do not modify.
 
 ---
 
-The following are some useful links:
-
 * **Project or software documentation**
 * **Tutorials**
-
-## Update site menu
