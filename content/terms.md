@@ -2,9 +2,6 @@
 draft: true
 editable: false
 summary: >-
-  <!--StartFragment-->
-
-
   # Terms and Conditions
 
 
@@ -175,14 +172,11 @@ summary: >-
 
 
   Terms and Conditions for K. M. Kura Online
-
-
-  <!--EndFragment-->
 header:
   caption: ""
   image: ""
 title: Terms and Conditions
-date: 2018-06-28T00:00:00+01:00
+date: 2020-11-06T23:00:00.000Z
 commentable: false
 share: false
 ---
