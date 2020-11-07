@@ -10,18 +10,31 @@ image:
 The following are some useful links:
 
 •	Nigeria High Commission Malaysia -  (https://www.nigeria.org.my)
+
 •	Ahmadu Bello University, Nigeria – (https://www.abu.edu.ng)
+
 •	Bayero University Kano, Nigeria  - (https://www.buk.edu.ng)
+
 •	Universiti Utara Malaysia – (http://www.uum.edu.my)
+
 •	Gaskination's StatWiki – (http://statwiki.kolobkreations.com)
+
 •	James Gaskin – YouTube – (http://www.youtube.com)
+
 •	SmartPLS – (https://www.smartpls.com)
+
 •	WarpPLS – (http://www.warppls.com)
+
 •	ADANCO software for PLS-SEM – (https://www.composite-modeling.com)
+
 •	PLS en español  - (https://www.facebook.com/groups/PLShispano)
+
 •	mySEM – (https://www.facebook.com/groups/mysem)
+
 •	The R Project Studio – (https://www.r-project.org)
+
 •	Jamovi: Free and Open Statistical Software  - (https://www.jamovi.org)
+
 •	JASP open-source statistics program – (https://jasp-stats.org)
 
 
