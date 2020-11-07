@@ -82,7 +82,7 @@ I reserve the right, at my sole discretion, to modify or replace these Terms at 
 By continuing to access or use my Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
 Contact me
-If you have any questions about these Terms and Conditions, You can contact us:
+If you have any questions about these Terms and Conditions, You can contact me:
 •	By email: kmkura@gmail.com
 
 
