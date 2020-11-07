@@ -1,14 +1,11 @@
 ---
-title: Recent & Upcoming Talks
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+title: Useful Links
+date: 2019-07-12
+math: true
+diagram: true
+image:
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+
+Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
