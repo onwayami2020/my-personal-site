@@ -1,5 +1,3 @@
-widget = "blank"
-headless = true  # This file represents a page section.
+# Useful Links
 
-# ... Useful Links
-
+The following are some useful links:
