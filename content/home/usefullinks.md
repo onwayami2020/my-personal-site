@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-The following are some useful links: Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+The following are some useful links:
 
 •	Nigeria High Commission Malaysia 
 •	Ahmadu Bello University, Nigeria 
