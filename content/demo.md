@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: usefullinks
 
 # Activate this widget? true/false
 active: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Demos
+title: Useful Links
 subtitle:
 
 design:
