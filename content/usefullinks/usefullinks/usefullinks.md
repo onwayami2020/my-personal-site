@@ -2,10 +2,7 @@
 title: Useful Links
 type: docs
 draft: false
-menu:
-  usefullinks:
-    parent: Useful Links Topic
-    weight: 1
+weight: 1
 
 weight: 1
 ---
