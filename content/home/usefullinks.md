@@ -9,7 +9,7 @@ image:
 
 ## Right click to open the following useful links in new window or new tab
 
-* 1.[Nigeria High Commission Malaysia] (https://www.nigeria.org.my)
+* [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
 
 * [Ahmadu Bello University, Nigeria] (https://www.abu.edu.ng)
 
