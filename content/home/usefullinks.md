@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-## Right click to open the following useful links in new window or new tab
+# Right click to open the following useful links in new window or new tab
 
 * [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
 * [Ahmadu Bello University, Nigeria](https://www.abu.edu.ng)
