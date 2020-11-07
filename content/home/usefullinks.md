@@ -19,7 +19,7 @@ The following are some useful links:
 
 •	Gaskination's StatWiki – (http://statwiki.kolobkreations.com)
 
-•	James Gaskin – YouTube – (https://www.youtube.com/channel/UCOMWLcopuV4xj8U3dePhVlQ)
+•	James Gaskin – YouTube – (http://tiny.cc/lys1tz)
 
 •	SmartPLS – (https://www.smartpls.com)
 
