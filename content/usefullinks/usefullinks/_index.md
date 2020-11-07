@@ -11,6 +11,3 @@ toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 ---
-
-* **Project or software documentation**
-* **Tutorials**
