@@ -23,4 +23,4 @@ Right click to open the following useful links in a new window or tab:
 * [The R Project for Statistical Computing](https://www.r-project.org)
 * [Jamovi: Free and Open Statistical Software](https://www.jamovi.org)
 * [JASP open-source statistics program](https://jasp-stats.org)
-
+* [Wikipedia]( https://en.wikipedia.org/wiki/Main_Page)
