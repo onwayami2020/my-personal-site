@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/15228916.2019.1583974?scroll=top&needAccess=true
 url_code: ''
 url_dataset: ''
 url_poster: ''
