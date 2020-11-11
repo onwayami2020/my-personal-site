@@ -24,3 +24,4 @@ Right click to open the following useful links in a new window or tab:
 * [Jamovi: Free and Open Statistical Software](https://www.jamovi.org)
 * [JASP open-source statistics program](https://jasp-stats.org)
 * [Wikipedia]( https://en.wikipedia.org/wiki/Main_Page)
+* [Finding scales for Constructs - Survey Development]( https://inn.theorizeit.org)
