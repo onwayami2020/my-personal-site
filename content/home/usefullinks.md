@@ -25,3 +25,6 @@ Right click to open the following useful links in a new window or tab:
 * [JASP open-source statistics program](https://jasp-stats.org)
 * [Wikipedia]( https://en.wikipedia.org/wiki/Main_Page)
 * [Finding scales for Constructs - Survey Development]( https://inn.theorizeit.org)
+
+
+Want to support this page further development? [Buy Me a Coffee Here!]( https://paypal.me/KabiruKura)
