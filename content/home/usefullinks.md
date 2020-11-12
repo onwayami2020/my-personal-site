@@ -27,4 +27,4 @@ Right click to open the following useful links in a new window or tab:
 * [Finding scales for Constructs - Survey Development]( https://inn.theorizeit.org)
 
 
-Want to support this page further development? [Buy Me a Coffee Here!]( https://paypal.me/KabiruKura)
+Want to support this page further development? https://gist.github.com/gbraad/216f8162d9b382d14b8a097a37cc2c72  [Buy Me a Coffee Here!]( https://paypal.me/KabiruKura)
