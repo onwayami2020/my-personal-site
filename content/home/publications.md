@@ -37,7 +37,7 @@ image:
 
 14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
 
-15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. (Publisher: Kaduna State University Press, Nigeria).
+15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [PDF](http://)
 
 16.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
 
@@ -45,35 +45,35 @@ image:
 
 18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
 
-19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. (Publisher: Faculty of Educational Studies, Universiti Putra Malaysia).
+19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. [PDF](http://)
 
-20.	**Kura, K. M.**, Abubakar, R. A., & Abubakar, S. (2017). Entrepreneurial learning and organisational performance: test of the mediating effects of innovativeness among small and medium enterprises. *Journal of Technology Management and Technopreneurship, 5*(1), 51-63. (Publisher: Universiti Teknikal Malaysia Melaka).
+20.	**Kura, K. M.**, Abubakar, R. A., & Abubakar, S. (2017). Entrepreneurial learning and organisational performance: test of the mediating effects of innovativeness among small and medium enterprises. *Journal of Technology Management and Technopreneurship, 5*(1), 51-63. [PDF](http://)
 
-21.	**Kura, K. M.** (2016). Linking customer relationship management to behavioural intentions in Islamic banking system: Evidence from Nigeria. *Journal of Entrepreneurship and Business, 4* (1), 15-35. (Publisher: Universiti Malaysia Kelantan).
+21.	**Kura, K. M.** (2016). Linking customer relationship management to behavioural intentions in Islamic banking system: Evidence from Nigeria. *Journal of Entrepreneurship and Business, 4* (1), 15-35. [PDF](http://)
 
-22.	**Kura, K. M.** (2016). Public service motivation as a driver of employees’ eco-initiatives: An exploratory investigation based on Federal Parastatals in Nigeria. *Lapai Journal of Management Studies, 8* (1-2), 319-333. (Publisher: Ibrahim Babaginda University, Lapai, Nigeria).
+22.	**Kura, K. M.** (2016). Public service motivation as a driver of employees’ eco-initiatives: An exploratory investigation based on Federal Parastatals in Nigeria. *Lapai Journal of Management Studies, 8* (1-2), 319-333. [PDF](http://)
 
-23.	Abubakar, R. A., & **Kura, K. M.** (2015). Does gender moderate the relationship between job satisfaction and employee - turnover intention? A Proposed model. *International Journal of Accounting, Business and Management, 1*(1), 1-7. (Publisher: (Financial Training & Management Services).
+23.	Abubakar, R. A., & **Kura, K. M.** (2015). Does gender moderate the relationship between job satisfaction and employee - turnover intention? A Proposed model. *International Journal of Accounting, Business and Management, 1*(1), 1-7. [PDF](http://)
 
-24.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2015). Relationship between human resource management practices and employee’s turnover intention among Registered Nurses in Nigerian Public Hospitals: The mediating role of organisational trust. *Sains Humanika, 5*(2), 95-98. (Publisher: Universiti Teknologi Malaysia).
+24.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2015). Relationship between human resource management practices and employee’s turnover intention among Registered Nurses in Nigerian Public Hospitals: The mediating role of organisational trust. *Sains Humanika, 5*(2), 95-98. [PDF](http://)
 
-25.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2014). Role of demographic variables in predicting turnover intention among Registered Nurses in Nigerian Public Hospitals. *International Journal of Business and Technopreneurship, 4*(3),373-383. (Publisher: Universiti Malaysia Perlis).
+25.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2014). Role of demographic variables in predicting turnover intention among Registered Nurses in Nigerian Public Hospitals. *International Journal of Business and Technopreneurship, 4*(3),373-383. [PDF](http://)
 
-26.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Effects of honour codes and classroom justice on students’ deviant behavior. *Procedia Social and Behavioural Sciences, 112*, 77-86. (Publisher: Elsevier).
+26.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Effects of honour codes and classroom justice on students’ deviant behavior. *Procedia Social and Behavioural Sciences, 112*, 77-86. [PDF](http://)
 
-27.	Chauhan, A., & **Kura, K. M.** (2013). Training Needs Analysis (TNA) of Malaysian-listed companies: A proposed study. *Far East Journal of Psychology and Business, 13* (2), 53-71. (Publisher: Far East Research Centre).
+27.	Chauhan, A., & **Kura, K. M.** (2013). Training Needs Analysis (TNA) of Malaysian-listed companies: A proposed study. *Far East Journal of Psychology and Business, 13* (2), 53-71. [PDF](http://)
 
-28.	 **Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Perceived group norms as predictors of deviant behaviour at work. *International Business Management, 7* (2), 121-126. https://doi.org/ 10.3923/ibm.2013.121.126. (Publisher: Medwell Journals).
+28.	 **Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Perceived group norms as predictors of deviant behaviour at work. *International Business Management, 7* (2), 121-126. https://doi.org/ 10.3923/ibm.2013.121.126
 
 29.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Influence of organizational formal control on workplace deviance: A pilot study. *Middle-East Journal of Scientific Research, 13*, 538-544. https://doi.org/10.5829/idosi.mejsr.2013.13.4.312
 
-30.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Modeling the influence of group norms and self-regulatory efficacy on workplace deviant behaviour. *Asian Social Science, 9* (4), 113-122. https://doi.org/10.5539/ass.v9n4p113. (Publisher: Canadian Centre of Science and Education).
+30.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Modeling the influence of group norms and self-regulatory efficacy on workplace deviant behaviour. *Asian Social Science, 9* (4), 113-122. https://doi.org/10.5539/ass.v9n4p113. [PDF](http://)
 
-31.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Moderating effect of self-regulatory efficacy on the relationship between organizational formal controls and workplace deviance: A proposed framework. *International Journal of Academic Research in Business and Social Sciences, 3* (1), 15-26. (Publisher: Human Resource Management Academic Research Society).
+31.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Moderating effect of self-regulatory efficacy on the relationship between organizational formal controls and workplace deviance: A proposed framework. *International Journal of Academic Research in Business and Social Sciences, 3* (1), 15-26. [PDF](http://)
 
-32.	**Kura, K. M.**, Abubakar, R. A., Abdullahi, S. A., & Akpan, A. B. (2012). Influence of job satisfaction and demographic factors on organizational commitment among teachers of Federal Government Girls’ College, Zaria, Nigeria. *Journal of Management and Science, 2*(4), 11-23. (Publisher: Non-Olympic Times).
+32.	**Kura, K. M.**, Abubakar, R. A., Abdullahi, S. A., & Akpan, A. B. (2012). Influence of job satisfaction and demographic factors on organizational commitment among teachers of Federal Government Girls’ College, Zaria, Nigeria. *Journal of Management and Science, 2*(4), 11-23. [PDF](http://)
 
-33.	Shamsudin, F. M., Chauhan, A., &  **Kura, K. M.**, (2012). Self-control as a moderator of the relationship between formal control and workplace deviance: A proposed framework. *Australian Journal of Business and Management Research, 2*(6), 32-39. (Publisher: New South Wales Research Centre Australia).
+33.	Shamsudin, F. M., Chauhan, A., &  **Kura, K. M.**, (2012). Self-control as a moderator of the relationship between formal control and workplace deviance: A proposed framework. *Australian Journal of Business and Management Research, 2*(6), 32-39. [PDF](http://)
 
 34.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Modeling the antecedents of customer switching behavior in Nigerian Banking Industry. *American Journal of Economics,2* (4), 29-36. https://doi.org/ 10.5923/j.economics.20120001.08
 
