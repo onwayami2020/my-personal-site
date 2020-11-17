@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-#### Journal Articles
+##### Journal Articles
 
 1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
