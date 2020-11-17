@@ -11,7 +11,7 @@ image:
 
 1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
-2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72.  (Publisher: Dorma Publishing; SCOPUS). 
+2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [PDF](http://) 
 
 3.	Ahmad, A., Kura, K.M., Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
