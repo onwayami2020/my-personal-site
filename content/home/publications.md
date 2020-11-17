@@ -11,7 +11,7 @@ image:
 
 1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download Full PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
-2.	**Kura, K.M.**, Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [Download Full PDF](http://) 
+2.	**Kura, K.M.**, Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [Download Full PDF](http://www.jett.dormaj.com/docs/Volume8/Issue%201/Entrepreneurial%20Orientation,%20Total%20Quality%20Management,%20Competitive%20Intensity,%20and%20Performance%20of%20SMEs%20-%20A%20Resource-Based%20Approach.pdf) 
 
 3.	Ahmad, A., **Kura, K.M.**, Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
@@ -37,13 +37,13 @@ image:
 
 14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
 
-15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [Download Full PDF](http://)
+15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [Download Full PDF](http://journal.kasu.edu.ng/index.php/KJSCM/article/view/372/321)
 
 16.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
 
 17.	Umrani, W. A., **Kura, K. M.**, & Ahmed, U. (2018). Corporate entrepreneurship and Business performance:  The Moderating Role of organizational culture in a selected bank in Pakistan. *PSU Research Review, 2*(1), 59-80. https://doi.org/10.1108/PRR-12-2016-0011
 
-18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
+18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. [Download Full PDF](https://jibe.uitm.edu.my/images/june2018/Ramatuabs.pdf)
 
 19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. [Download Full PDF](http://www.injet.upm.edu.my/images/abstract/isujune1_2018/Predicting%20Dishonest%20Academic%20Behaviour%20The%20Roles%20of%20Attitude,%20Subjective%20Norms,%20Perceived%20Behavioural%20Control%20and%20Moral%20Obligation.pdf)
 
