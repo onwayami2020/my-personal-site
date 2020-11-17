@@ -27,7 +27,7 @@ image:
 
 9.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
 
-10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [PDF](http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
+10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [Download Full PDF](http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
 
 11.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 
 
@@ -37,7 +37,7 @@ image:
 
 14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
 
-15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [PDF](http://)
+15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [Download Full PDF](http://)
 
 16.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
 
