@@ -9,39 +9,39 @@ image:
 
 #### Journal Articles
 
-1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf. (Publisher: Universiti Utara Malaysia; ESCI). 
+1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [PDF] (http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
 2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72.  (Publisher: Dorma Publishing; SCOPUS). 
 
-3.	Ahmad, A., Kura, K.M., Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55 . (Publisher: Wuhan University of Technology of China et al; ESCI). 
+3.	Ahmad, A., Kura, K.M., Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
-4.	Ahmed, U., Kura, K.M., Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813 . (Publisher: SAGE Publications; ABDC List; SCOPUS; ESCI; Q2-SJR).
+4.	Ahmed, U., Kura, K.M., Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813
 
-5.	**Kura, K. M.**, Shamsudin, F. M., Umrani, W. A., & Salleh, N. M. (2019). Linking human resource development practices to counterproductive work behaviour: Does employee engagement matter. *Journal of African Business, 20* (4), 472-488. https://doi.org/10.1080/15228916.2019.1583974. (Publisher: Routledge; ABS Ranking; ABDC List; SCOPUS; ESCI; Q2-SJR).
+5.	**Kura, K. M.**, Shamsudin, F. M., Umrani, W. A., & Salleh, N. M. (2019). Linking human resource development practices to counterproductive work behaviour: Does employee engagement matter. *Journal of African Business, 20* (4), 472-488. https://doi.org/10.1080/15228916.2019.1583974. 
 
-6.	Sabiu, M. S., **Kura, K. M.**, Mei, T. S., Joarder, M. H. R., & Umrani, W. A. (2019). The mediating role of ethical climate in the relationship between performance appraisal and organizational performance. *International Journal of Public Administration. 2*(8), 642-653. https://doi.org/10.1080/01900692.2018.1498105. (Publisher: Routledge; ABS Ranking; ABDC List; SCOPUS; ESCI; Q1-SJR).
+6.	Sabiu, M. S., **Kura, K. M.**, Mei, T. S., Joarder, M. H. R., & Umrani, W. A. (2019). The mediating role of ethical climate in the relationship between performance appraisal and organizational performance. *International Journal of Public Administration. 2*(8), 642-653. https://doi.org/10.1080/01900692.2018.1498105. 
 
-7.	Ekpe, I., Mat, N., Ahmad, A., & **Kura, K. M.** (2017). Effect of crowd-funding on entrepreneurial intentions among academic staff of Nigerian universities. International *Journal of Management in Education, 11* (4), 367-380. https://doi.org/10.1504/IJMIE.2017.086891. (Publisher: Inderscience Publishers; SCOPUS; Q3-SJR)
+7.	Ekpe, I., Mat, N., Ahmad, A., & **Kura, K. M.** (2017). Effect of crowd-funding on entrepreneurial intentions among academic staff of Nigerian universities. International *Journal of Management in Education, 11* (4), 367-380. https://doi.org/10.1504/IJMIE.2017.086891
 
-8.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S https://doi.org/10.1177/0972150916631069. (Publisher: SAGE Publications; ABDC List; SCOPUS; ESCI; Q2-SJR).
+8.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S https://doi.org/10.1177/0972150916631069
 
-9.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055 . (Publisher: Emerald Group Publishing; ABDC List; SCOPUS; ESCI; Q2-SJR).
+9.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
 
-10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. (Publisher: Universiti Malaysia Sarawak; SCOPUS; ESCI; Q3-SJR). Click here 
+10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [PDF] (http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
 
-11.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 . (Publisher: Wuhan University of Technology of China et al; ESCI). 
+11.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 
 
-12.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2015). Does self-regulatory efficacy matter? Effects of punishment certainty and punishment severity on organisational deviance. *SAGE Open, 5*(2), 1-14. https://doi.org/10.1177/2158244015591822. (Publisher: SAGE Publications; SCOPUS; SSCI; Q3-SJR).
+12.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2015). Does self-regulatory efficacy matter? Effects of punishment certainty and punishment severity on organisational deviance. *SAGE Open, 5*(2), 1-14. https://doi.org/10.1177/2158244015591822.
 
-13.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Self-regulatory efficacy as potential moderator on the influence of organisational formal controls and perceived group norms on workplace deviance: A proposed framework. *Jurnal Teknologi (Social Sciences), 64* (2), 33-38. https://doi.org/10.11113/jt.v64.2232. (Publisher: Universiti Teknologi Malaysia; SCOPUS; Q3-SJR).
+13.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Self-regulatory efficacy as potential moderator on the influence of organisational formal controls and perceived group norms on workplace deviance: A proposed framework. *Jurnal Teknologi (Social Sciences), 64* (2), 33-38. https://doi.org/10.11113/jt.v64.2232
 
-14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029. (Publisher: Growing Science; SCOPUS; Q4-SJR).
+14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
 
 15.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. (Publisher: Kaduna State University Press, Nigeria).
 
 16.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
 
-17.	Umrani, W. A., **Kura, K. M.**, & Ahmed, U. (2018). Corporate entrepreneurship and Business performance:  The Moderating Role of organizational culture in a selected bank in Pakistan. *PSU Research Review, 2*(1), 59-80. https://doi.org/10.1108/PRR-12-2016-0011 . (Publisher: Emerald Group Publishing for Prince Sultan University, Saudi Arabia).
+17.	Umrani, W. A., **Kura, K. M.**, & Ahmed, U. (2018). Corporate entrepreneurship and Business performance:  The Moderating Role of organizational culture in a selected bank in Pakistan. *PSU Research Review, 2*(1), 59-80. https://doi.org/10.1108/PRR-12-2016-0011
 
 18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
 
@@ -65,7 +65,7 @@ image:
 
 28.	 **Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Perceived group norms as predictors of deviant behaviour at work. *International Business Management, 7* (2), 121-126. https://doi.org/ 10.3923/ibm.2013.121.126. (Publisher: Medwell Journals).
 
-29.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Influence of organizational formal control on workplace deviance: A pilot study. *Middle-East Journal of Scientific Research, 13*, 538-544. https://doi.org/10.5829/idosi.mejsr.2013.13.4.312 . (Publisher: International Digital Organization for Scientific Information; Indexed in Eurasia Database).
+29.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Influence of organizational formal control on workplace deviance: A pilot study. *Middle-East Journal of Scientific Research, 13*, 538-544. https://doi.org/10.5829/idosi.mejsr.2013.13.4.312
 
 30.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Modeling the influence of group norms and self-regulatory efficacy on workplace deviant behaviour. *Asian Social Science, 9* (4), 113-122. https://doi.org/10.5539/ass.v9n4p113. (Publisher: Canadian Centre of Science and Education).
 
@@ -75,7 +75,7 @@ image:
 
 33.	Shamsudin, F. M., Chauhan, A., &  **Kura, K. M.**, (2012). Self-control as a moderator of the relationship between formal control and workplace deviance: A proposed framework. *Australian Journal of Business and Management Research, 2*(6), 32-39. (Publisher: New South Wales Research Centre Australia).
 
-34.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Modeling the antecedents of customer switching behavior in Nigerian Banking Industry. *American Journal of Economics,2* (4), 29-36. https://doi.org/ 10.5923/j.economics.20120001.08. (Publisher: Scientific & Academic Publishing).
+34.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Modeling the antecedents of customer switching behavior in Nigerian Banking Industry. *American Journal of Economics,2* (4), 29-36. https://doi.org/ 10.5923/j.economics.20120001.08
 
 #### Conference Proceedings
 
