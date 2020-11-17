@@ -43,7 +43,7 @@ image:
 
 17.	Umrani, W. A., **Kura, K. M.**, & Ahmed, U. (2018). Corporate entrepreneurship and Business performance:  The Moderating Role of organizational culture in a selected bank in Pakistan. *PSU Research Review, 2*(1), 59-80. https://doi.org/10.1108/PRR-12-2016-0011 . (Publisher: Emerald Group Publishing for Prince Sultan University, Saudi Arabia).
 
-18.	Abubakar, R. A., K. M. Kura, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
+18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
 
 19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. (Publisher: Faculty of Educational Studies, Universiti Putra Malaysia).
 
