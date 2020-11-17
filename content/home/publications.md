@@ -77,7 +77,7 @@ image:
 
 34.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Modeling the antecedents of customer switching behavior in Nigerian Banking Industry. *American Journal of Economics,2* (4), 29-36. https://doi.org/ 10.5923/j.economics.20120001.08
 
-#### Conference Proceedings
+##### Conference Proceedings
 
 1.	**Kura, K. M.**, Salleh, N. M., & Nazmudeen, M.S.H. (2019). Elucidating the Influence of Transformational Leadership on Job Performance: A metaBUS-enabled Meta-Analysis. In Z. Ahmad (Ed.), *European Proceedings of Social and Behavioural Sciences EpSBS (pp. 687– 693)*. European Publisher. https://doi.org/10.15405/epsbs.2020.10.61 
 
@@ -121,7 +121,7 @@ image:
 
 21.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Effects of organizational formal control and self-regulatory efficacy on deviant behaviour at work. In H. C. Wooi, A. M. Nasurdin & P. L. Kee (Eds.), *Proceedings of the 10th Asian Academy of Management International Conference (pp. 378-386)*. Penang, Malaysia: Asian Academy of Management. 
 
-#### Presentations Given at Conferences (not published in proceedings)
+##### Presentations Given at Conferences (not published in proceedings)
 
 22.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Organisational trust as a mediator between perceived organisational support and constructive deviance. The 6th International Borneo Business Conference (IBBC 2014). Sarawak, Malaysia: Universiti Malaysia Sarawak (UNIMAS). 
 
@@ -130,19 +130,19 @@ image:
 24.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Determining the antecedents of customer switching behavior in Nigerian Banking Industry. The 1st Global Conference for Academics Research (GCAR), 8-11-2012, Grand Seasons, Hotel, Kuala Lumpur, Malaysia. 
 
 
-#### Book Chapter Contributions
+##### Book Chapter Contributions
 
 1.	Ringim, K. J., Ibrahim, F., **Kura, K. M.** (2019). Application of hill’s strategy development framework on fast food restaurant business in Brunei Darussalam. In N. H. Abu, E. M. Elias, S. N. M. Zamani, & A. Noordin (Eds.), *Emerging Business Strategies for Sustainability*. Sintok: School of Technology Management & Logistics.
 
 2.	**Kura, K. M.** (2018). Workplace deviant behaviours: A critical review of the empirical literature. Zaria: In G. B. Bello, M. Halliru, A. S. Garba, & M. S. Aliyu (Eds.), *Northwest Business and Entrepreneurship Development Review*.
 
-#### Edited Books
+##### Edited Books
 
 3.	Nazmudeen, M. S. H., Mohiddin, F., **Kura, K. M.**, Kawi, F., Ismail, K., Wasiuzzaman, S., Salihu, I. A., Su, L. & F. Ibrahim (Eds.), *Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (CBMIS 2019)*.  Bandar Seri Begawan: Universiti Teknologi Brunei.
 
 4.	Reni, A., Munir, A., Munizu, M., Phuakkhong, C., Ahmad, N. H., Siddiqui, S. H., & **Kura, K. M.** (2019). *Advances in Economics, Business and Management Research (Vol. 92)*.  Amsterdam: Atlantis Press.
 
-#### Books
+##### Books
 
 5.	**Kura, K. M.** (2010). *Understanding Business Management*. Zaria: Rockdove Printing & Publishing Services.
 
@@ -151,7 +151,7 @@ image:
 7.	**Kura, K. M.** (2008). *Essentials of Cooperative Field Administration*. Zaria: Rock Dove Publishers.
 
 
-#### Presentations, Workshops, and Keynote Addresses 
+##### Presentations, Workshops, and Keynote Addresses 
 
 1.	**Kura, K. M.** (2019, November 13-15). Parallel Sessions [Session Chair: Marketing]. The 1st  International Conference on Business, Management and Information Systems (ICBMIS 2019), Universiti Teknologi Brunei, Gadong, Brunei.
 
