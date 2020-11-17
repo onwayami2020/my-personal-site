@@ -142,7 +142,6 @@ image:
 
 4.	Reni, A., Munir, A., Munizu, M., Phuakkhong, C., Ahmad, N. H., Siddiqui, S. H., & **Kura, K. M.** (2019). *Advances in Economics, Business and Management Research (Vol. 92)*.  Amsterdam: Atlantis Press.
 
- 
 #### Books
 
 5.	**Kura, K. M.** (2010). *Understanding Business Management*. Zaria: Rockdove Printing & Publishing Services.
