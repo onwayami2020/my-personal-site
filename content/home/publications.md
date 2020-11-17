@@ -9,7 +9,7 @@ image:
 
 ### Journal Articles
 
-1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  International Journal of Management Studies, 27(2) 77-96. http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf. (Publisher: Universiti Utara Malaysia; ESCI). 
+1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf. (Publisher: Universiti Utara Malaysia; ESCI). 
 
 
 2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. Journal of Environmental Treatment Techniques, 8 (1), 61-72.  (Publisher: Dorma Publishing; SCOPUS). 
