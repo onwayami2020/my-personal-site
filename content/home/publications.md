@@ -13,9 +13,9 @@ image:
 
 2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [PDF](http://) 
 
-3.	Ahmad, A., Kura, K.M., Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
+3.	Ahmad, A., **Kura, K.M.**, Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
-4.	Ahmed, U., Kura, K.M., Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813
+4.	Ahmed, U., **Kura, K.M.**, Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813
 
 5.	**Kura, K. M.**, Shamsudin, F. M., Umrani, W. A., & Salleh, N. M. (2019). Linking human resource development practices to counterproductive work behaviour: Does employee engagement matter. *Journal of African Business, 20* (4), 472-488. https://doi.org/10.1080/15228916.2019.1583974. 
 
