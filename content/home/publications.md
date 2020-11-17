@@ -2,8 +2,6 @@
 title: Publications
 math: false
 diagram: false
-image:
-  placement: 3
 
 ---
 
