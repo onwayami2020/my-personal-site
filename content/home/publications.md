@@ -9,7 +9,7 @@ image:
 
 #### Journal Articles
 
-1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [PDF] (http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
+1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
 2.	Kura, K.M., Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72.  (Publisher: Dorma Publishing; SCOPUS). 
 
@@ -27,7 +27,7 @@ image:
 
 9.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
 
-10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [PDF] (http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
+10.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [PDF](http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
 
 11.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 
 
