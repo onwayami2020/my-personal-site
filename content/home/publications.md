@@ -23,7 +23,7 @@ image:
 
 7.	Ekpe, I., Mat, N., Ahmad, A., & **Kura, K. M.** (2017). Effect of crowd-funding on entrepreneurial intentions among academic staff of Nigerian universities. International *Journal of Management in Education, 11* (4), 367-380. https://doi.org/10.1504/IJMIE.2017.086891
 
-8.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S https://doi.org/10.1177/0972150916631069
+8.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S. https://doi.org/10.1177/0972150916631069
 
 9.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
 
