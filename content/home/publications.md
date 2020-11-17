@@ -9,9 +9,9 @@ image:
 
 #### Journal Articles
 
-1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
+1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download Full PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf). 
 
-2.	**Kura, K.M.**, Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [PDF](http://) 
+2.	**Kura, K.M.**, Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [Download Full PDF](http://) 
 
 3.	Ahmad, A., **Kura, K.M.**, Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
@@ -45,35 +45,35 @@ image:
 
 18.	Abubakar, R. A., **K. M. Kura**, & Ringim, K. J. (2018). Total quality management, firm performance, and the moderating role of competitive intensity. *Journal of International Business, Economics and Entrepreneurship, 3*(1),10-20. (Publisher: Universiti Teknologi MARA, Malaysia).
 
-19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. [PDF](http://)
+19.	**Kura, K. M.**, Ahmad, T. S., & Kontagora, H. L. (2018). Predicting dishonest academic behaviours: The role of attitude, subjective norms, perceived behavioural control and moral obligation. *International Journal of Education & Training, 4*(1),1-11. [Download Full PDF](http://www.injet.upm.edu.my/images/abstract/isujune1_2018/Predicting%20Dishonest%20Academic%20Behaviour%20The%20Roles%20of%20Attitude,%20Subjective%20Norms,%20Perceived%20Behavioural%20Control%20and%20Moral%20Obligation.pdf)
 
-20.	**Kura, K. M.**, Abubakar, R. A., & Abubakar, S. (2017). Entrepreneurial learning and organisational performance: test of the mediating effects of innovativeness among small and medium enterprises. *Journal of Technology Management and Technopreneurship, 5*(1), 51-63. [PDF](http://)
+20.	**Kura, K. M.**, Abubakar, R. A., & Abubakar, S. (2017). Entrepreneurial learning and organisational performance: test of the mediating effects of innovativeness among small and medium enterprises. *Journal of Technology Management and Technopreneurship, 5*(1), 51-63. [Download Full PDF](https://journal.utem.edu.my/index.php/jtmt/article/view/3561/2462)
 
-21.	**Kura, K. M.** (2016). Linking customer relationship management to behavioural intentions in Islamic banking system: Evidence from Nigeria. *Journal of Entrepreneurship and Business, 4* (1), 15-35. [PDF](http://)
+21.	**Kura, K. M.** (2016). Linking customer relationship management to behavioural intentions in Islamic banking system: Evidence from Nigeria. *Journal of Entrepreneurship and Business, 4* (1), 15-35. https://doi.org/10.17687/JEB.0401.02
 
-22.	**Kura, K. M.** (2016). Public service motivation as a driver of employees’ eco-initiatives: An exploratory investigation based on Federal Parastatals in Nigeria. *Lapai Journal of Management Studies, 8* (1-2), 319-333. [PDF](http://)
+22.	**Kura, K. M.** (2016). Public service motivation as a driver of employees’ eco-initiatives: An exploratory investigation based on Federal Parastatals in Nigeria. *Lapai Journal of Management Studies, 8* (1-2), 319-333. [Download Full PDF](http://)
 
-23.	Abubakar, R. A., & **Kura, K. M.** (2015). Does gender moderate the relationship between job satisfaction and employee - turnover intention? A Proposed model. *International Journal of Accounting, Business and Management, 1*(1), 1-7. [PDF](http://)
+23.	Abubakar, R. A., & **Kura, K. M.** (2015). Does gender moderate the relationship between job satisfaction and employee - turnover intention? A Proposed model. *International Journal of Accounting, Business and Management, 1*(1), 1-7. [Download Full PDF](https://www.ftms.edu.my/journals/IJABM/Apr2015/254-259.pdf)
 
-24.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2015). Relationship between human resource management practices and employee’s turnover intention among Registered Nurses in Nigerian Public Hospitals: The mediating role of organisational trust. *Sains Humanika, 5*(2), 95-98. [PDF](http://)
+24.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2015). Relationship between human resource management practices and employee’s turnover intention among Registered Nurses in Nigerian Public Hospitals: The mediating role of organisational trust. *Sains Humanika, 5*(2), 95-98. [Download Full PDF](https://sainshumanika.utm.my/index.php/sainshumanika/article/view/636/516)
 
-25.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2014). Role of demographic variables in predicting turnover intention among Registered Nurses in Nigerian Public Hospitals. *International Journal of Business and Technopreneurship, 4*(3),373-383. [PDF](http://)
+25.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2014). Role of demographic variables in predicting turnover intention among Registered Nurses in Nigerian Public Hospitals. *International Journal of Business and Technopreneurship, 4*(3),373-383. [Download Full PDF](https://www.researchgate.net/publication/323847974_Role_of_demographic_variables_in_predicting_turnover_intention_among_Registered_Nurses_in_Nigerian_Public_Hospitals/link/5aaf95da0f7e9b4897c084cc/download)
 
-26.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Effects of honour codes and classroom justice on students’ deviant behavior. *Procedia Social and Behavioural Sciences, 112*, 77-86. [PDF](http://)
+26.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Effects of honour codes and classroom justice on students’ deviant behavior. *Procedia Social and Behavioural Sciences, 112*, 77-86. https://doi.org/10.1016/j.sbspro.2014.01.1141
 
-27.	Chauhan, A., & **Kura, K. M.** (2013). Training Needs Analysis (TNA) of Malaysian-listed companies: A proposed study. *Far East Journal of Psychology and Business, 13* (2), 53-71. [PDF](http://)
+27.	Chauhan, A., & **Kura, K. M.** (2013). Training Needs Analysis (TNA) of Malaysian-listed companies: A proposed study. *Far East Journal of Psychology and Business, 13* (2), 53-71. [Download Full PDF](http://)
 
 28.	 **Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Perceived group norms as predictors of deviant behaviour at work. *International Business Management, 7* (2), 121-126. https://doi.org/ 10.3923/ibm.2013.121.126
 
 29.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Influence of organizational formal control on workplace deviance: A pilot study. *Middle-East Journal of Scientific Research, 13*, 538-544. https://doi.org/10.5829/idosi.mejsr.2013.13.4.312
 
-30.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Modeling the influence of group norms and self-regulatory efficacy on workplace deviant behaviour. *Asian Social Science, 9* (4), 113-122. https://doi.org/10.5539/ass.v9n4p113. [PDF](http://)
+30.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Modeling the influence of group norms and self-regulatory efficacy on workplace deviant behaviour. *Asian Social Science, 9* (4), 113-122. https://doi.org/10.5539/ass.v9n4p113
 
-31.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Moderating effect of self-regulatory efficacy on the relationship between organizational formal controls and workplace deviance: A proposed framework. *International Journal of Academic Research in Business and Social Sciences, 3* (1), 15-26. [PDF](http://)
+31.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Moderating effect of self-regulatory efficacy on the relationship between organizational formal controls and workplace deviance: A proposed framework. *International Journal of Academic Research in Business and Social Sciences, 3* (1), 15-26. [Download Full PDF](http://)
 
-32.	**Kura, K. M.**, Abubakar, R. A., Abdullahi, S. A., & Akpan, A. B. (2012). Influence of job satisfaction and demographic factors on organizational commitment among teachers of Federal Government Girls’ College, Zaria, Nigeria. *Journal of Management and Science, 2*(4), 11-23. [PDF](http://)
+32.	**Kura, K. M.**, Abubakar, R. A., Abdullahi, S. A., & Akpan, A. B. (2012). Influence of job satisfaction and demographic factors on organizational commitment among teachers of Federal Government Girls’ College, Zaria, Nigeria. *Journal of Management and Science, 2*(4), 11-23. [Download Full PDF](https://www.researchgate.net/publication/278715047_Influence_of_job_satisfaction_and_demographic_factors_on_organizational_commitment_among_teachers_of_Federal_Government_Girls'_College_Zaria_Nigeria/link/564b9b7108ae020ae9f83502/download)
 
-33.	Shamsudin, F. M., Chauhan, A., &  **Kura, K. M.**, (2012). Self-control as a moderator of the relationship between formal control and workplace deviance: A proposed framework. *Australian Journal of Business and Management Research, 2*(6), 32-39. [PDF](http://)
+33.	Shamsudin, F. M., Chauhan, A., &  **Kura, K. M.**, (2012). Self-control as a moderator of the relationship between formal control and workplace deviance: A proposed framework. *Australian Journal of Business and Management Research, 2*(6), 32-39. [Download Full PDF](http://ajbmr.com/current-issue/30)
 
 34.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Modeling the antecedents of customer switching behavior in Nigerian Banking Industry. *American Journal of Economics,2* (4), 29-36. https://doi.org/ 10.5923/j.economics.20120001.08
 
