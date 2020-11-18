@@ -5,6 +5,8 @@ diagram: false
 
 ---
 
+<div class=text-justify> 
+
 ##### Journal Articles
 
  1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf).</div> 
@@ -169,3 +171,4 @@ diagram: false
 
 9.	**Kura, K. M.** (2014, November 17-18). Two Days Intensive Workshop on PLS-SEM with SmartPLS [Workshop Facilitator]. Universiti Utara Malaysia, Sintok, Malaysia.
 
+</div>
