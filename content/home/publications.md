@@ -5,10 +5,11 @@ diagram: false
 
 ---
 
+<div class=text-justify> 
+
 ##### Journal Articles
 
- 
-<div class=text-justify> 1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf).</div> 
+ 1.	Ibrahim, N. A., **Kura, K. M.**, Dasuki, S. I., & Abubakar Alkali, A. M. (2020). Problematic internet use and health outcomes: Does trait self-control matter?  *International Journal of Management Studies, 27*(2) 77-96. [Download PDF](http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf).</div> 
 
 2.	**Kura, K.M.**, Abubakar, R. A., & Salleh, N. M. (2020). Entrepreneurial orientation, total quality management, competitive intensity, and performance of SMEs: A resource-based approach. *Journal of Environmental Treatment Techniques, 8* (1), 61-72. [Download PDF](http://www.jett.dormaj.com/docs/Volume8/Issue%201/Entrepreneurial%20Orientation,%20Total%20Quality%20Management,%20Competitive%20Intensity,%20and%20Performance%20of%20SMEs%20-%20A%20Resource-Based%20Approach.pdf) 
 
@@ -169,3 +170,5 @@ diagram: false
 8.	**Kura, K. M.** (2016, January 28-29). Two Days Basic Workshop on Statistical Analysis with SPSS Software [Workshop Facilitator]. Federal Polytechnic Bida, Nigeria.
 
 9.	**Kura, K. M.** (2014, November 17-18). Two Days Intensive Workshop on PLS-SEM with SmartPLS [Workshop Facilitator]. Universiti Utara Malaysia, Sintok, Malaysia.
+
+</div>
