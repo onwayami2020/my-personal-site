@@ -212,96 +212,256 @@ diagram: false
 
 ##### Conference Proceedings
 
+<div class=text-justify> 
+
 1.	**Kura, K. M.**, Salleh, N. M., & Nazmudeen, M.S.H. (2019). Elucidating the Influence of Transformational Leadership on Job Performance: A metaBUS-enabled Meta-Analysis. In Z. Ahmad (Ed.), *European Proceedings of Social and Behavioural Sciences EpSBS (pp. 687– 693)*. European Publisher. https://doi.org/10.15405/epsbs.2020.10.61 
+
+ </div> 
+
+<div class=text-justify> 
 
 2.	Ringim, K. J., Ibrahim, F., **Kura, K. M.** (2018). Application of hill’s strategy development framework on fast food restaurant business in Brunei Darussalam. In    F. M. Yamin, N. Hami, E. Eaj, & S. Z. Abu-Bakar (Eds.), *Proceedings of the 2nd  Conference on Technology and Operations Management (2NDCTOM): Emerging Issues in Technology and Operations Management in Era of Change*: Sintok, Kedah: Universiti Utara Malaysia. [Conference Proceedings Citation Index].
 
+ </div> 
+
+<div class=text-justify> 
+
 3.	**Kura, K. M.**, Ringim, K. J., & Abubakar, R. A. (2020). Effect of business development services on the performance of small and medium sized enterprises in Brunei Darussalam. *Proceedings of the International Conference on Research and Practices in Science, Technology and Social Sciences (I-CReST 2020)*.  Cawangan Selangor: Universiti Teknologi MARA, Malaysia.
+
+ </div> 
+
+<div class=text-justify> 
 
 4.	Mshellia, P. S. **Kura, K. M.**, & Mohiddin, F. (2019). Re-examining the relationship between entrepreneurship education and self-efficacy undergraduate students of higher education institutions. In A. R. Abdullah, M. Z. Muhammad, M. A. H. Ibrahim, N. C. Nawi, M. Muhamad, & F. H. Muhamad (Eds.), *Proceedings of the 7th International Seminar on Entrepreneurship and Business (ISEB 2019) (pp. 153-160)*.  Kota Bharu: Universiti Malaysia Kelantan.
 
+ </div> 
+
+<div class=text-justify> 
+
 5.	A. M. M, Sawara, & **Kura, K. M.** (2019). Re-examining the role of service quality dimensions and trust in predicting customer satisfaction in Brunei Postal Services. In M. S. H. Nazmudeen, F. Mohiddin, K. M. Kura, F. Kawi, K. Ismail, S. Wasiuzzaman, I. A. Salihu, L. Su, & F. Ibrahim (Eds.), *Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (CBMIS 2019) (pp. 264-278)*.  Bandar Seri Begawan: Universiti Teknologi Brunei.
+
+ </div> 
+
+<div class=text-justify> 
 
 6.	Adeoti, M. O., & **Kura, K. M.** (2018). Ethical climate, job pressure, and counterproductive work behaviour: The mediating role of neutralization. In    N. A. Abu-Bakar, S. Edman, D. A. A. Marikan, D. H. Husaini, & F. Ismail (Eds.), *Proceedings of the 8th International Borneo Business Conference (IBBC 2018)*. Kuching: Universiti Malaysia Sarawak and Universiti Malaysia Sabah.
 
+ </div> 
+
+<div class=text-justify> 
+
 7.	Abubakar, S., & **Kura, K. M.** (2018). Organisational justice and turnover intention among frontline employees of Electricity Distribution Companies in Nigeria.  *Proceedings of the Towards Livable, Resilient and Competitive Cities International Conference (TLRCC)*. Kuala Lumpur, University of Malaya.
+
+ </div> 
+
+<div class=text-justify> 
 
 8.	**Kura, K. M.** & Abubakar, R. A. (2018). Towards a better understanding of the mechanism linking perceived workload to counterproductive work behaviour: Does job dissatisfaction matter? In N. Salahuddin, S. Saad, N. M. Isa, S. H. H. Rani, W. I. M. Fauzi, B. A. M. Kamil, N. Jamaludin, & M. Jaganathan (Eds.), *Proceedings of the 3rd International Conference on Business Management (ICBM 2018)*. George Town, Universiti Utara Malaysia.
 
+ </div> 
+
+<div class=text-justify> 
+
 9.	Abubakar, A. A., **Kura, K. M.**, Abdullahi, N., & Sulaiman, S. A. (2018). Entrepreneurial orientation, organizational learning and performance of small and medium-sized business ventures: A mediation model. In    J. Ile (Ed), *Proceedings of the 4th ICSS Conference*. Abuja, Nile University of Nigeria.
+
+ </div> 
+
+<div class=text-justify> 
 
 10.	Abubakar, M. Y., & **Kura, K. M.** (2017). Customer-related social stressors and frontline employee turnover intention: The mediating role of job-related anxiety. In    I. Kolandaisamy, J. S. H. Sin, & N. M. Isa (Eds.), *Proceedings of the 4th Conference on Business Management 2017 (CBM 2017)*. Sintok, Kedah: Universiti Utara Malaysia.
 
+ </div> 
+
+<div class=text-justify> 
+
 11.	Abubakar, A. A., & **Kura, K. M.** (2017). Moving beyond the direct effect:  Innovativeness as a mediator between entrepreneurial learning and the performance of small and medium enterprises. In A. Isik et al. (Eds.), *Proceedings of the 3rd International Conference on Social Sciences and law (ICSSL-Africa) (pp. 21-33)*. Abuja, Nile University of Nigeria.
+
+ </div> 
+
+<div class=text-justify> 
 
 12.	**Kura, K. M.** (2016). Theory of planned behaviour as a model of dishonest academic behaviours among students of Federal Polytechnic Kaura Namoda, Nigeria: A pilot study. In G. P. Ing et al. (Eds.), *Proceedings of the 7th International Borneo Business Conference (IBBC 2016) (pp. 225-229)*. Sabah, Malaysia: Universiti Malaysia Sarawak (UNIMAS) and Universiti Malaysia Sabah (UMS).
 
+ </div> 
+
+<div class=text-justify> 
+
 13.	**Kura, K. M.** (2016). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. In R. Yusof, K. & K. W. Aimin (Eds.), *Proceedings of the 13th International Conference on Innovation and Management (pp. 172-176)*. Kuala Lumpur, Malaysia: Malaysia-Japan International Institute of Technology and Yamaguchi University, Japan.
+
+ </div> 
+
+<div class=text-justify> 
 
 14.	**Kura, K. M.** (2016). Employees’ workplace eco-initiatives: The role of public service motivation. In A.P.M. Som, et al. (Eds.), *Proceedings of the International Social Sciences and Tourism Research Conference -ISSTRC 2016 (p. 786)*. Kuala Terengganu, Malaysia: Universiti Sultan Zainal Abidin (UniSZA).
 
+ </div> 
+
+<div class=text-justify> 
+
 15.	**Kura, K. M.** (2016). Human resource development practices and counterproductive work behaviour: Mediating role of employee engagement. In A.T. Amayah, & R. Yawson (Eds.), *Proceedings of the 2016 AHRD International Research Conference in the Americas (pp. 1-13)*. Jacksonville, FL: Academy of Human Resource Development.
 
-16.	Shamsudin, F. M., **Kura, K. M.**, & Al-Shuaibi, A. S. I. (2014). Understanding the antecedents of cyberdeviance at work: A proposed framework.  *Proceedings of the 6th International Conference on Education and Information Management (ICEIM-2014)*. Kuala Lumpur, Malaysia: International Foundation for Research and Development. 
+ </div> 
+
+<div class=text-justify> 
+
+16.	Shamsudin, F. M., **Kura, K. M.**, & Al-Shuaibi, A. S. I. (2014). Understanding the antecedents of cyberdeviance at work: A proposed framework.  *Proceedings of the 6th International Conference on Education and Information Management (ICEIM-2014)*. Kuala Lumpur, Malaysia: International Foundation for Research and Development.
+
+ </div> 
+
+<div class=text-justify> 
 
 17.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Discriminant validation of measures of normative controls, self-control, and deviant workplace behaviour. *Proceedings of the 3rd International Conference on Accounting, Business and Economics (ICABEC 2014)*. Kuala Terengganu, Malaysia: Universiti Malaysia Terengganu (UMT). 
 
+ </div> 
+
+<div class=text-justify> 
+
 18.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Influence of organisational formal control, group norms, self-regulatory efficacy on workplace deviance in the Nigerian universities: Data screening and preliminary analysis.  *Proceedings of the 7th National Human Resources Management Conference (NHRMC 2014)*. Sintok, Malaysia: Universiti Utara Malaysia (UUM). 
 
-19.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Honesty- Humility as a moderator on the relationship between organizational formal control and workplace deviance: A proposed framework. In H. Gunggut, H. Z. Zaaba, M. L. S. Mei, T. S. King, T. Paridi, & H. H. Dusim (Eds.), *Proceedings of the 4th International Conference on Public Policy and Social Sciences (ICoPS) 2013); p. 271-278)*. Kota Kinabalu Sabah, Malaysia: Universiti Teknologi MARA (UiTM). 
+ </div> 
+
+<div class=text-justify> 
+
+19.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Honesty- Humility as a moderator on the relationship between organizational formal control and workplace deviance: A proposed framework. In H. Gunggut, H. Z. Zaaba, M. L. S. Mei, T. S. King, T. Paridi, & H. H. Dusim (Eds.), *Proceedings of the 4th International Conference on Public Policy and Social Sciences (ICoPS) 2013); p. 271-278)*. Kota Kinabalu Sabah, Malaysia: Universiti Teknologi MARA (UiTM).
+
+ </div> 
+
+<div class=text-justify> 
 
 20.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Examining the dimensions of workgroup norms construct: A validation study in the Nigerian education context. In R. Hamid, G.  H. Tanakinjal, L.  H. Ann, L. L. Majawat (Eds.), *Proceedings of the 2nd Applied International Business Conference: Emerging mega-trends in Asian market (pp. 398-402)*. Sabah, Malaysia: Universiti Malaysia Sabah, Malaysia. 
 
-21.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Effects of organizational formal control and self-regulatory efficacy on deviant behaviour at work. In H. C. Wooi, A. M. Nasurdin & P. L. Kee (Eds.), *Proceedings of the 10th Asian Academy of Management International Conference (pp. 378-386)*. Penang, Malaysia: Asian Academy of Management. 
+ </div> 
+
+<div class=text-justify> 
+
+21.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Effects of organizational formal control and self-regulatory efficacy on deviant behaviour at work. In H. C. Wooi, A. M. Nasurdin & P. L. Kee (Eds.), *Proceedings of the 10th Asian Academy of Management International Conference (pp. 378-386)*. Penang, Malaysia: Asian Academy of Management.
+
+ </div> 
 
 ##### Presentations Given at Conferences (not published in proceedings)
 
+<div class=text-justify> 
+
 22.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Organisational trust as a mediator between perceived organisational support and constructive deviance. The 6th International Borneo Business Conference (IBBC 2014). Sarawak, Malaysia: Universiti Malaysia Sarawak (UNIMAS). 
+
+ </div> 
+
+<div class=text-justify> 
 
 23.	Abubakar, R. A., Chauhan, A., & **Kura, K. M.** (2014). Relationship between human resource management practices and employee’s turnover intention among Registered Nurses in Nigerian public hospitals: The mediating role of organisational trust. The AFAP International Conference on Entrepreneurship and Business Management 2014. Johor Bahru, Malaysia: Universiti Teknologi Malaysia (UTM). 
 
+ </div> 
+
+<div class=text-justify> 
+
 24.	**Kura, K. M.**, Mat, N. K. N., Gorondutse, A. H., Magaji, A. M., &  Yusuf, A. (2012). Determining the antecedents of customer switching behavior in Nigerian Banking Industry. The 1st Global Conference for Academics Research (GCAR), 8-11-2012, Grand Seasons, Hotel, Kuala Lumpur, Malaysia. 
+
+ </div> 
 
 
 ##### Book Chapter Contributions
 
+<div class=text-justify> 
+
 1.	Ringim, K. J., Ibrahim, F., **Kura, K. M.** (2019). Application of hill’s strategy development framework on fast food restaurant business in Brunei Darussalam. In N. H. Abu, E. M. Elias, S. N. M. Zamani, & A. Noordin (Eds.), *Emerging Business Strategies for Sustainability*. Sintok: School of Technology Management & Logistics.
+
+ </div> 
+
+<div class=text-justify> 
 
 2.	**Kura, K. M.** (2018). Workplace deviant behaviours: A critical review of the empirical literature. Zaria: In G. B. Bello, M. Halliru, A. S. Garba, & M. S. Aliyu (Eds.), *Northwest Business and Entrepreneurship Development Review*.
 
+ </div> 
+
 ##### Edited Books
+
+<div class=text-justify> 
 
 3.	Nazmudeen, M. S. H., Mohiddin, F., **Kura, K. M.**, Kawi, F., Ismail, K., Wasiuzzaman, S., Salihu, I. A., Su, L. & F. Ibrahim (Eds.), *Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (CBMIS 2019)*.  Bandar Seri Begawan: Universiti Teknologi Brunei.
 
+ </div> 
+
+<div class=text-justify> 
+
 4.	Reni, A., Munir, A., Munizu, M., Phuakkhong, C., Ahmad, N. H., Siddiqui, S. H., & **Kura, K. M.** (2019). *Advances in Economics, Business and Management Research (Vol. 92)*.  Amsterdam: Atlantis Press.
+
+ </div> 
 
 ##### Books
 
+<div class=text-justify> 
+
 5.	**Kura, K. M.** (2010). *Understanding Business Management*. Zaria: Rockdove Printing & Publishing Services.
+
+ </div> 
+
+<div class=text-justify> 
 
 6.	**Kura, K. M.** (2009). *Introduction to Modern Business*. Zaria: Rockdove Printing & Publishing Services.
 
+ </div> 
+
+<div class=text-justify> 
+
 7.	**Kura, K. M.** (2008). *Essentials of Cooperative Field Administration*. Zaria: Rock Dove Publishers.
+
+ </div> 
 
 
 ##### Presentations, Workshops, and Keynote Addresses 
 
+<div class=text-justify> 
+
 1.	**Kura, K. M.** (2019, November 13-15). Parallel Sessions [Session Chair: Marketing]. The 1st  International Conference on Business, Management and Information Systems (ICBMIS 2019), Universiti Teknologi Brunei, Gadong, Brunei.
+
+ </div> 
+
+<div class=text-justify> 
 
 2.	**Kura, K. M.** (2019, October 10). Concurrent Sessions [Session Chair: Organizational Behaviour and Human Resource Management]. The 13th Asian Academy of Management International Conference (AAMC 2019), Pulau Pinang, Malaysia.
 
+ </div> 
+
+<div class=text-justify> 
+
 3.	**Kura, K. M.** (2019, June 27-28). Two Days Research Workshop on Statistical Modeling Using ADANCO Software [Workshop Facilitator]. ABU Business School, CBN Centre of Excellence, Ahmadu Bello University, Zaria, Nigeria.
+
+ </div> 
+
+<div class=text-justify> 
 
 4.	**Kura, K. M.** (2018, October 7). Parallel Sessions [Session Chair: Human Resource Management]. The 3rd  International Conference on Business Management (ICBM 2018), George Town, Malaysia.
 
+ </div> 
+
+<div class=text-justify> 
+
 5.	**Kura, K. M.** (2018, November 4). Pre-Conference Workshop on Statistical Modeling Using PLS-SEM with ADANCO Software [Workshop Facilitator]. The 3rd International Conference on Accounting, Management and Economics (ICAME 2018), Hasanuddin University, Makassar, Indonesia.
+
+ </div> 
+
+<div class=text-justify> 
 
 6.	**Kura, K. M.** (2018, March 2-3). Two Days Research Workshop on Statistical Modeling Using ADANCO Software [Workshop Facilitator]. Federal College of Education, Kano, Nigeria.
 
+ </div> 
+
+<div class=text-justify> 
+
 7.	**Kura, K. M.** (2017, December 22-24). Three Days Research Workshop on Statistical Modeling Using SPSS and SmartPLS Softwares [Workshop Facilitator]. Tahir Guest Palace Hotel, Nassarawa, Kano, Nigeria.
+
+ </div> 
+
+<div class=text-justify> 
 
 8.	**Kura, K. M.** (2016, January 28-29). Two Days Basic Workshop on Statistical Analysis with SPSS Software [Workshop Facilitator]. Federal Polytechnic Bida, Nigeria.
 
+ </div> 
+
+<div class=text-justify> 
+
 9.	**Kura, K. M.** (2014, November 17-18). Two Days Intensive Workshop on PLS-SEM with SmartPLS [Workshop Facilitator]. Universiti Utara Malaysia, Sintok, Malaysia.
+
+ </div> 
 
 
