@@ -1,4 +1,4 @@
-Title: **[One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software]**      
+Title: **One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software**     
 Event: Postgraduate Series Workshop     
 event_url: https://example.org
 
