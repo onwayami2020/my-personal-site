@@ -1,5 +1,5 @@
 ---
-title: One Day Research Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software
+title: Example talk
 event: UTB Postgraduate Students Workshop Series
 event_url: https://example.org
 
