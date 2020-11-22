@@ -14,7 +14,7 @@ date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-12-01T09:00:00Z"
+publishDate: "2020-00-12T09:00:00Z"
 
 authors: []
 tags: []
@@ -30,7 +30,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/kmkura
 url_code: ""
 url_pdf: ""
 url_slides: ""
