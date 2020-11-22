@@ -1,14 +1,8 @@
-title: One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software
-event: Postgraduate Series Workshop
+Title: ***One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software**
+Event: Postgraduate Series Workshop
 event_url: https://example.org
 
-location: Universiti Teknologi Brunei
-address:
-  street: Jalan Tungku Link
-  city: Gadong
-  region: BE
-  postcode: '1410'
-  country: Brunei Darussalam
+Location: Universiti Teknologi Brunei
 
 summary: Statistical Modeling Using Jamovi: Free and Open Statistical Software.
 abstract: "jamovi is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS."
@@ -20,7 +14,7 @@ date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-01T09:00:00Z"
 
 authors: []
 tags: []
