@@ -1,7 +1,7 @@
 ---
 title: External Project.
 
-summary: "This project examined the relationships between attitude, subjective norms, perceived behavioural control, moral obligation, and dishonest academic behaviours. Based on a sample of 255 polytechnics students in the Northwest Geopolitical zone of Nigeria, the results showed that attitude, subjective norms, and perceived behavioural control were positively related to dishonest academic behaviours. In addition, moral obligation was found to be significantly and negatively related to dishonest academic behaviours."
+summary: "Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of Nigeria"
 tags:
 - Organisational Behaviour
 date: "2018-04-27T00:00:00Z"
