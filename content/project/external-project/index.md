@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: Internal Project
 summary: Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of Nigeria.
 tags:
 - Deep Learning
@@ -29,9 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-<div class="text-justify">
-  
-High incidence of dishonest academic behaviours, such as cheating, plagiarism, and exchange of sex for better grades has become a major concern for stakeholders of the higher education system in Nigeria. This problem has reached a point where public confidence in the integrity and quality of graduates may be eroded. Drawing from Ajzen’s (1991) Theory of Planned Behaviour, this study examined the relationships between attitude, subjective norms, perceived behavioural control, moral obligation, and dishonest academic behaviours. Based on a sample of 255 polytechnics students in the Northwest Geopolitical zone of Nigeria, the results showed that attitude, subjective norms, and perceived behavioural control were positively related to dishonest academic behaviours. In addition, moral obligation was found to be significantly and negatively related to dishonest academic behaviours. It is recommended that management of polytechnics can minimize the incidences of dishonest academic behaviours by conducting personality inventory test during admission process to screenout potential candidate whose values accord to that of their institution.
-
-</div>
