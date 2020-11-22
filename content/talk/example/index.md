@@ -1,5 +1,5 @@
 Title: **One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software**     
-Event: Postgraduate Series Workshop     
+Event: Postgraduate Series Workshops     
 event_url: https://example.org
 
 Location: Universiti Teknologi Brunei
