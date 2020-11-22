@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: Enhancing opportunities for local small and medium sized enterprises through business development strategies practices among Bruneians’ entrepreneurs..
+title: External Project
+summary: Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of Nigeria.
 tags:
-- Deep Learning
+- Human Resource Management
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -32,6 +32,6 @@ slides: example
 
 <div class="text-justify">
   
-It is indisputable that small and medium size enterprises (SMEs) play a vital role in promoting economic growth of every country. In Brunei, SMEs make up 97% of all enterprises and contribute 22% of the country’ gross domestic product. While SMEs play a vital role in economic growth of Brunei, evidence suggests that they lack access to business development services (BDS), which could assist them to acquire key technical skills, improve their understanding of and access to markets, as well as to enhance their performance. To address this concern, we purposed to examine whether BDS could predict SME performance in Brunei Darussalam. Market access, management /organization, technology and product development, alternative financing mechanisms, as well as input and supply were casted as the components of BDS. The hypothesized model was tested and evaluated on a sample of 281 SMEs four major districts in Brunei using Partial Least Structural Equation modeling. Results indicated that input and supply, market access, technology and product development, and alternative financing mechanisms positively affect SME performance. However, management/organization was not found to be significantly related to SME performance.
+High incidence of dishonest academic behaviours, such as cheating, plagiarism, and exchange of sex for better grades has become a major concern for stakeholders of the higher education system in Nigeria. This problem has reached a point where public confidence in the integrity and quality of graduates may be eroded. Drawing from Ajzen’s (1991) Theory of Planned Behaviour, this study examined the relationships between attitude, subjective norms, perceived behavioural control, moral obligation, and dishonest academic behaviours. Based on a sample of 255 polytechnics students in the Northwest Geopolitical zone of Nigeria, the results showed that attitude, subjective norms, and perceived behavioural control were positively related to dishonest academic behaviours. In addition, moral obligation was found to be significantly and negatively related to dishonest academic behaviours. It is recommended that management of polytechnics can minimize the incidences of dishonest academic behaviours by conducting personality inventory test during admission process to screenout potential candidate whose values accord to that of their institution.
 
 </div>
