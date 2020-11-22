@@ -2,16 +2,16 @@ title: One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Stat
 event: Postgraduate Series Workshop
 event_url: https://example.org
 
-location: Source Themes HQ
+location: Universiti Teknologi Brunei
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Jalan Tungku Link
+  city: Gadong
+  region: BE
+  postcode: '1410'
+  country: Brunei Darussalam
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Statistical Modeling Using Jamovi: Free and Open Statistical Software.
+abstract: "jamovi is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -72,4 +72,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+
 
