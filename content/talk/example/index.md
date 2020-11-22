@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-11-01T00:00:00Z"
 
-authors: [Kabiru Maitama Kura]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
