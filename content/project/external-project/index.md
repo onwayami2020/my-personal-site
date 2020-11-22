@@ -1,5 +1,5 @@
 ---
-title: External Project.
+title: External Project
 
 summary: "Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of Nigeria"
 tags:
