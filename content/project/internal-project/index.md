@@ -3,7 +3,7 @@ title: Internal Project
 summary: Enhancing opportunities for local small and medium sized enterprises through business development strategies practices among Bruneians’ entrepreneurs.
 tags:
 - Entrepreneurship Development
-date: "2018-04-27T00:00:00Z"
+date: "2018-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
