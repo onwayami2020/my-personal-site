@@ -1,6 +1,6 @@
 ---
 title: External Project
-summary: "Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of Nigeria." `external_link`.
+ summary: Theory of planned behaviour as a model of students’ dishonest academic behaviours:  Evidence from Polytechnics in the Northwest Geo-Political Zone of NigeriaAn example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
@@ -12,4 +12,3 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
-
