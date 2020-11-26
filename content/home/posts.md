@@ -1,5 +1,5 @@
 ---
-title: Useful Links
+title: Recent & Upcoming Talks
 math: false
 diagram: false
 image:
