@@ -7,12 +7,12 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-**Title:** One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software 
+**Title:**        One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software 
 
-**Date:** 00 Devember 2020
+**Date:**         00 Devember 2020
 
-**Event:** Postgraduate Series Workshops event_url: https://example.org 
+**Event:**        Postgraduate Series Workshops event_url: https://example.org 
 
-**Location:** Universiti Teknologi Brunei 
+**Location:**     Universiti Teknologi Brunei 
 
-**Summary:** Statistical Modeling Using Jamovi: Free and Open Statistical Software.
+**Summary:**      Statistical Modeling Using Jamovi: Free and Open Statistical Software.
