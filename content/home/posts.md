@@ -7,6 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
+
 **Title:** One Day Workshop on Statistical Modeling Using Jamovi: Free and Open Statistical Software
 
 **Date:** 00 Devember 2020
