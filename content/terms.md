@@ -52,7 +52,7 @@ Your access to and use of the Service is also conditioned on Your acceptance of 
 
 My Service may contain links to third-party web sites or services that are not owned or controlled by myself.
 
-I have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that I shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+In its ruling of 12 May 1998 the Hamburg Regional Court ruled that a person whose web pages contain links to third-party pages may be held responsible for the content of those third-party pages. This liability can only be avoided through an explicit disclaimer. To this effect, despite careful checking of their content, I have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. I further acknowledge and agree that I shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 I strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
