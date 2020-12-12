@@ -28,102 +28,101 @@ diagram: false
 
  </div> 
 
+
 <div class=text-justify> 
 
 
-4.	Ahmad, A., **Kura, K.M.**, Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
+4.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [Download PDF](http://journal.kasu.edu.ng/index.php/KJSCM/article/view/372/321)
 
  </div> 
 
 <div class=text-justify> 
 
 
-5.	Ahmed, U., **Kura, K.M.**, Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813
+5.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
+
+ </div> 
+
+6.	Ahmad, A., **Kura, K.M.**, Bibi, P., Khalid, N., & Jaaffar (2019). Effect of compensation, training and development and manager support on employee commitment: The moderating effect of co-worker support. *RISUS - Journal on Innovation and Sustainability, 10* (2), 339-355. https://doi.org/10.23925/2179-3565.2019v10i2p39-55
 
  </div> 
 
 <div class=text-justify> 
 
 
-6.	**Kura, K. M.**, Shamsudin, F. M., Umrani, W. A., & Salleh, N. M. (2019). Linking human resource development practices to counterproductive work behaviour: Does employee engagement matter. *Journal of African Business, 20* (4), 472-488. https://doi.org/10.1080/15228916.2019.1583974. 
+7.	Ahmed, U., **Kura, K.M.**, Umrani, W. A., & Pahi, M. H. (2019). Modeling the link between developmental human resource practices and work engagement: The moderation role of service climate. *Global Business Review, 2* (1), 1-23. https://doi.org/10.1177/0972150919837813
 
  </div> 
 
 <div class=text-justify> 
 
 
-7.	Sabiu, M. S., **Kura, K. M.**, Mei, T. S., Joarder, M. H. R., & Umrani, W. A. (2019). The mediating role of ethical climate in the relationship between performance appraisal and organizational performance. *International Journal of Public Administration. 2*(8), 642-653. https://doi.org/10.1080/01900692.2018.1498105. 
+8.	**Kura, K. M.**, Shamsudin, F. M., Umrani, W. A., & Salleh, N. M. (2019). Linking human resource development practices to counterproductive work behaviour: Does employee engagement matter. *Journal of African Business, 20* (4), 472-488. https://doi.org/10.1080/15228916.2019.1583974. 
 
  </div> 
 
 <div class=text-justify> 
 
 
-8.	Ekpe, I., Mat, N., Ahmad, A., & **Kura, K. M.** (2017). Effect of crowd-funding on entrepreneurial intentions among academic staff of Nigerian universities. International *Journal of Management in Education, 11* (4), 367-380. https://doi.org/10.1504/IJMIE.2017.086891
+9.	Sabiu, M. S., **Kura, K. M.**, Mei, T. S., Joarder, M. H. R., & Umrani, W. A. (2019). The mediating role of ethical climate in the relationship between performance appraisal and organizational performance. *International Journal of Public Administration. 2*(8), 642-653. https://doi.org/10.1080/01900692.2018.1498105. 
 
  </div> 
 
 <div class=text-justify> 
 
 
-9.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S. https://doi.org/10.1177/0972150916631069
-
- </div> 
-
-
-<div class=text-justify> 
-
-10.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
+10.	Ekpe, I., Mat, N., Ahmad, A., & **Kura, K. M.** (2017). Effect of crowd-funding on entrepreneurial intentions among academic staff of Nigerian universities. International *Journal of Management in Education, 11* (4), 367-380. https://doi.org/10.1504/IJMIE.2017.086891
 
  </div> 
 
 <div class=text-justify> 
 
 
-11.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [Download PDF](http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
+11.	**Kura, K. M.** (2016). Linking environmentally-specific transformational leadership and environmental concern to green behaviour at work. *Global Business Review, 17* (3S), 1S-14S. https://doi.org/10.1177/0972150916631069
+
+ </div> 
+
+
+<div class=text-justify> 
+
+12.	**Kura, K. M.** (2016). Re-examining the relationship between perceived workgroup norms, self-regulatory efficacy and deviant workplace behaviour. *African Journal of Economic and Management Studies, 7* (3), 379-396. https://doi.org/10.1108/AJEMS-08-2014-0055
 
  </div> 
 
 <div class=text-justify> 
 
 
-12.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 
+13.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A.  (2016). Organisational trust as a mediator between perceived organisational support and constructive deviance. *International Journal of Business and Society, 17* (1), 1-18. [Download PDF](http://publisher.unimas.my/ojs/index.php/IJBS/article/view/506).
 
  </div> 
 
 <div class=text-justify> 
 
 
-13.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2015). Does self-regulatory efficacy matter? Effects of punishment certainty and punishment severity on organisational deviance. *SAGE Open, 5*(2), 1-14. https://doi.org/10.1177/2158244015591822.
+14.	**Kura, K. M.** (2017). Theorizing a boundary condition of the relationship between human resource management practices and turnover intention: A proposed model. *RISUS - Journal on Innovation and Sustainability, 1*, 3-11. https://doi.org/10.24212/2179-3565.2017v8i1p3-11 
 
  </div> 
 
 <div class=text-justify> 
 
 
-14.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Self-regulatory efficacy as potential moderator on the influence of organisational formal controls and perceived group norms on workplace deviance: A proposed framework. *Jurnal Teknologi (Social Sciences), 64* (2), 33-38. https://doi.org/10.11113/jt.v64.2232
-
-
-<div class=text-justify> 
-
-
-15.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
+15.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2015). Does self-regulatory efficacy matter? Effects of punishment certainty and punishment severity on organisational deviance. *SAGE Open, 5*(2), 1-14. https://doi.org/10.1177/2158244015591822.
 
  </div> 
 
 <div class=text-justify> 
 
 
-16.	Ringim, K. J., Abdullahi, N., & **Kura, K. M.** (2020).  Impact of supply chain management practices on competitive advantage and performance of Food and Beverages organizations in Brunei Darussalam. *KASU Journal of Supply Chain Management, 1*(1), 21-47. [Download PDF](http://journal.kasu.edu.ng/index.php/KJSCM/article/view/372/321)
+16.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2013). Self-regulatory efficacy as potential moderator on the influence of organisational formal controls and perceived group norms on workplace deviance: A proposed framework. *Jurnal Teknologi (Social Sciences), 64* (2), 33-38. https://doi.org/10.11113/jt.v64.2232
 
- </div> 
 
 <div class=text-justify> 
 
 
-17.	Muhammed, Y., Ringim, K. J., & **Kura, K. M.** (2020). Moderating role of perceived social support on the relationship between entrepreneurship education and entrepreneurial intention. *Journal of Entrepreneurship and Business, 8* (1), 104-119. https://doi.org/10.17687/JEB.0801.09
+17.	**Kura, K. M.**, Shamsudin, F. M., & Chauhan, A. (2014). Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance.  *Management Science Letters, 4*, 1-8. https://doi.org/10.5267/j.msl.2014.2.029.
 
  </div> 
+
 
 <div class=text-justify> 
 
