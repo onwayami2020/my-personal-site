@@ -263,12 +263,6 @@ diagram: false
 
  </div> 
 
-<div class=text-justify> 
-
-
-*	Ringim, K. J., Ibrahim, F., **Kura, K. M.** (2018). Application of hill’s strategy development framework on fast food restaurant business in Brunei Darussalam. In    F. M. Yamin, N. Hami, E. Eaj, & S. Z. Abu-Bakar (Eds.), *Proceedings of the 2nd  Conference on Technology and Operations Management (2NDCTOM): Emerging Issues in Technology and Operations Management in Era of Change*: Sintok, Kedah: Universiti Utara Malaysia. [Conference Proceedings Citation Index].
-
- </div> 
 
 <div class=text-justify> 
 
@@ -298,9 +292,17 @@ diagram: false
 
  </div> 
 
+  
 <div class=text-justify> 
 
 
+*	Ringim, K. J., Ibrahim, F., **Kura, K. M.** (2018). Application of hill’s strategy development framework on fast food restaurant business in Brunei Darussalam. In    F. M. Yamin, N. Hami, E. Eaj, & S. Z. Abu-Bakar (Eds.), *Proceedings of the 2nd  Conference on Technology and Operations Management (2NDCTOM): Emerging Issues in Technology and Operations Management in Era of Change*: Sintok, Kedah: Universiti Utara Malaysia. [Conference Proceedings Citation Index].
+
+ </div> 
+
+<div class=text-justify> 
+  
+  
 *	Abubakar, S., & **Kura, K. M.** (2018). Organisational justice and turnover intention among frontline employees of Electricity Distribution Companies in Nigeria.  *Proceedings of the Towards Livable, Resilient and Competitive Cities International Conference (TLRCC)*. Kuala Lumpur, University of Malaya.
 
  </div> 
