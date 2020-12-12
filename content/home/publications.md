@@ -263,14 +263,6 @@ diagram: false
 
  </div> 
 
-
-<div class=text-justify> 
-
-
-*	**Kura, K. M.**, Ringim, K. J., & Abubakar, R. A. (2020). Effect of business development services on the performance of small and medium sized enterprises in Brunei Darussalam. *Proceedings of the International Conference on Research and Practices in Science, Technology and Social Sciences (I-CReST 2020)*.  Cawangan Selangor: Universiti Teknologi MARA, Malaysia.
-
- </div> 
-
 <div class=text-justify> 
 
 
