@@ -10,7 +10,7 @@ diagram: false
 <div class=text-justify> 
 
 
-  1.	Mashod, H., **Kura, K. M.**, & Ringim, K. J. (2020). Theorising the boundary condition between psychological capital and graduate employability: Does grit matter?  *ETH Learning and Teaching Journal, 2*(2) 78-82. [Download PDF](https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144).
+  1.	Mashod, H., **Kura, K. M.**, & Ringim, K. J. (2020). Theorising the boundary condition between psychological capital and graduate employability: Does grit matter?  *ETH Learning and Teaching Journal, 2*(2) 78-83. [Download PDF](https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144).
 
  </div> 
 
