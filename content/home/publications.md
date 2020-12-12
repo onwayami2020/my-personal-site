@@ -5,7 +5,7 @@ diagram: false
 
 ---
 
-##### Journal Articles
+#### Journal Articles
 
 
 <div class=text-justify> 
@@ -254,7 +254,7 @@ diagram: false
 
  </div> 
 
-##### Conference Proceedings
+#### Conference Proceedings
 
 <div class=text-justify> 
 
@@ -403,7 +403,7 @@ diagram: false
 
  </div> 
 
-##### Presentations Given at Conferences (not published in proceedings)
+#### Presentations Given at Conferences (not published in proceedings)
 
 <div class=text-justify> 
 
@@ -427,7 +427,7 @@ diagram: false
  </div> 
 
 
-##### Book Chapter Contributions
+#### Book Chapter Contributions
 
 <div class=text-justify> 
 
@@ -443,7 +443,7 @@ diagram: false
 
  </div> 
 
-##### Edited Books
+#### Edited Books
 
 <div class=text-justify> 
 
@@ -459,7 +459,7 @@ diagram: false
 
  </div> 
 
-##### Books
+#### Books
 
 <div class=text-justify> 
 
@@ -483,7 +483,7 @@ diagram: false
  </div> 
 
 
-##### Presentations, Workshops, and Keynote Addresses 
+#### Presentations, Workshops, and Keynote Addresses 
 
 <div class=text-justify> 
 
