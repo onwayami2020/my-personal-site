@@ -113,8 +113,8 @@ appointment_url = "https://meet-with-kabiru-maitama-kura.appointlet.com/b/kabiru
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/kmkura"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:kmkura_1"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/onwayami2020"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://www.skype.com/en"},
+  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
