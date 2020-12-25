@@ -9,7 +9,7 @@ image:
 
 **The following are some useful links**:
 
-* [Click here to buy a custom domain for your next website or blog at a discount from from Namecheap](https://namecheap.pxf.io/62DqG)
+* [To buy a custom domain for your next website or blog at a discount from Namecheap, click here](https://namecheap.pxf.io/62DqG)
 * [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
 * [Ahmadu Bello University, Nigeria](https://www.abu.edu.ng)
 * [Bayero University Kano, Nigeria](https://www.buk.edu.ng)
