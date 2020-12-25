@@ -9,6 +9,7 @@ image:
 
 Right click to open the following useful links in a new window or tab:
 
+* [Click here to buy a custom domain for your next website at a discount from from Namecheap](https://namecheap.pxf.io/62DqG)
 * [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
 * [Ahmadu Bello University, Nigeria](https://www.abu.edu.ng)
 * [Bayero University Kano, Nigeria](https://www.buk.edu.ng)
