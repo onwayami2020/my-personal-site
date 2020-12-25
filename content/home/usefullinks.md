@@ -7,7 +7,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Right click to open the following useful links in a new window or tab:
+**The following are some useful links**:
 
 * [Click here to buy a custom domain for your next website or blog at a discount from from Namecheap](https://namecheap.pxf.io/62DqG)
 * [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
