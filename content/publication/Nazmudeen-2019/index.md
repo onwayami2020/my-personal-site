@@ -38,7 +38,7 @@ projects: ["icbmis"]
 publishDate: '2019-11-14T12:26:50.779754Z'
 publication_types:
 - 6
-abstract: The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019) publishes original research contributions formatted according to the given format. This Proceedings is based on the 1st ICBMIS 2019, which was held from 13th – 15th November 2019 in Universiti Technologi Brunei, Brunei Darussalam.
+abstract: <div class=text-justify> The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019) publishes original research contributions formatted according to the given format. This Proceedings is based on the 1st ICBMIS 2019, which was held from 13th – 15th November 2019 in Universiti Technologi Brunei, Brunei Darussalam. </div>
 publication: '*Sustainable Innovation in Business, Management and Information Systems, 1* (1), 1-604'
 url_pdf: https://www.icbmis-utb.org/
 isbn: 978-99917-919-5-1
