@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *European Proceedings of Social and Behavioural Sciences - Volume 88 - AAMC 2019*
-publication_short: In *European Proceedings of Social and Behavioural Sciences*
+publication_short: In Z. Ahmad (Ed), *European Proceedings of Social and Behavioural Sciences EpSBS, 88*, (pp. 686-693). European Publisher. https://doi.org/10.15405/epsbs.2020.10.61
 
 abstract: Over the past three decades, transformational leadership has emerged as a significant antecedent of employee performance across a wide variety of contexts. Prior research has employed meta-analysis to confirm the effect of transformational leadership on job performance. While researchers and practitioners in the field of industrial and organizational psychology have relied heavily on meta-analyses, however, this approach are time consuming and also becoming increasingly difficult to obtain effect sizes as the amount of available research grows exponentially. To address this concern, we utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performance. As expected, the meta-analysis confirmed the positive relationship between transformational leadership and job performance. The practical implications and suggestions for future research have been discussed.
 
