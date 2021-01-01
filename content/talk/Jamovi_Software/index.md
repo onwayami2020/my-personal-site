@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Jamovi is a new 3rd generation statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. This one-day course provides a profound introduction to Jamovi: Free and Open Statistical Software. The course has been designed for PhD students who are interested in learning how to use Jamovi Software in their own research applications. A basic knowledge of multivariate statistics and SEM techniques is helpful, but not required. The session will cover theory and its application. Specifically, theoretical explanations underlying the software procedures and practical exercises where participants will apply their learning to real-world examples provided by the instructor."
+abstract: <div class=text-justify>"Jamovi is a new 3rd generation statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. This one-day course provides a profound introduction to Jamovi: Free and Open Statistical Software. The course has been designed for PhD students who are interested in learning how to use Jamovi Software in their own research applications. A basic knowledge of multivariate statistics and SEM techniques is helpful, but not required. The session will cover theory and its application. Specifically, theoretical explanations underlying the software procedures and practical exercises where participants will apply their learning to real-world examples provided by the instructor."</div>
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
