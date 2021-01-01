@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "<div class=text-justify> One Day Workshop on Jamovi: Free and Open Statistical Software </div>"
+title: "One Day Workshop on Jamovi: Free and Open Statistical Software"
 event: "UTB Postgraduate Talk Series 2021"
 event_url:
 location: "Universiti Teknologi Brunei"
