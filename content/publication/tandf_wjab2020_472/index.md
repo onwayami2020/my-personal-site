@@ -1,7 +1,7 @@
 ---
 title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
 authors:
-- "Kabiru Maitama Kura and Faridahwati Mohd. Shamsudin and Waheed Ali Umrani and Noor Maya Salleh"
+- "Kura, K. M., Shamsudin, F. M., Umrani, W. A., & Salleh, N. M."
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
