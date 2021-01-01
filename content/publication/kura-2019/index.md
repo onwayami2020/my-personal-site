@@ -15,6 +15,9 @@ date: '2009-01-01'
 lastmod: 2020-08-28T12:54:29+02:00
 featured: false
 draft: false
+links:
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
