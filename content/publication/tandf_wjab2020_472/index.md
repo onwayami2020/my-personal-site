@@ -1,7 +1,11 @@
 ---
 title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
 
-authors: "Kura, K. M., Shamsudin, F. M., Umrani, W. A., & Salleh, N. M."
+authors: 
+  "Kura, K. M.", 
+  "Shamsudin, F. M.", 
+  "Umrani, W. A.",
+  "Salleh, N. M."
 
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1080/15228916.2019.1583974"
