@@ -1,11 +1,16 @@
 ---
 title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate"
 authors:
-- "Ahmed, Umair and Kura, Kabiru Maitama and Umrani, Waheed Ali and Pahi, Munwar Hussain"
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Umair A.
+- Kura, K. M.
+- Umrani W. A.
+- Pahi M. H.
+tags: ["gbr"]
+categories: []
+date: '2019-08-01'
+lastmod: 2019-08-28T13:02:11+02:00
+featured: false
+draft: false
 doi: "https://doi.org/10.1177/0972150919837813"
 
 # Schedule page publish date (NOT publication's date).
