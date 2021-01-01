@@ -5,10 +5,10 @@ title: 'Modelling the Link Between Developmental Human Resource Practices and Wo
 subtitle: ''
 summary: ''
 authors:
-- Ahmed, U.
-- Kura, K. M.
-- Umrani, W. A.
-- Pahi, M. H.
+- Ahmed U.
+- Kura K. M.
+- Umrani W. A.
+- Pahi M. H.
 tags: ["gbr"]
 categories: []
 date: '2009-01-01'
