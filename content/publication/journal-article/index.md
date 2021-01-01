@@ -2,7 +2,7 @@
 title: "Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate"
 authors:
 - Umair A.
-- Kura, K. M.
+- Kura K. M.
 - Umrani W. A.
 - Pahi M. H.
 tags: ["gbr"]
