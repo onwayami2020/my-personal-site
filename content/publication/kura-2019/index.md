@@ -5,13 +5,13 @@ title: 'Modelling the Link Between Developmental Human Resource Practices and Wo
 subtitle: ''
 summary: ''
 authors:
-- U. Ahmed
-- K. M. Kura
-- W. A. Umrani
-- M. H. Pahi
+- Ahmed, U.
+- Kura, K. M.
+- Umrani, W. A.
+- Pahi, M. H.
 tags: ["gbr"]
 categories: []
-date: '2017-01-01'
+date: '2009-01-01'
 lastmod: 2020-08-28T12:54:29+02:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["gbr"]
-publishDate: '2017-08-28T10:54:29.262633Z'
+publishDate: '2009-08-28T10:54:29.262633Z'
 publication_types:
 - 2
 abstract: 'The purpose of this article is to examine the relationship between developmental human resource (HR) practices and work engagement by focusing on the moderating role of service climate. Specifically, employee training opportunities, career developmental opportunities, and developmental performance appraisal were cast as the key dimensions of developmental HR practices. We used cross-sectional data with survey from 277 employees in six large banks in Pakistan. The results suggest that each of the dimensions of developmental HR practices was positively related to work engagement. Also, service climate was found to moderate the relationship between training opportunities and work engagement. Similarly, results showed that service climate moderated relationship between career developmental opportunities and work engagement. Regarding the practical implications, results suggest that policymakers should consider enriching HR factors by providing supportive environment, feedback and service climate to enhance employee engagement. In terms of originality, we contended that, to date, there is paucity of empirical study linking developmental HR practices to employees’ work engagement. Hence, the present study addressed this gap by examining the relationship between developmental HR practices and work engagement, as well as the boundary condition on these relationships.'
