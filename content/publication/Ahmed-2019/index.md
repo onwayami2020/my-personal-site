@@ -18,7 +18,7 @@ draft: false
 links:
   - name: Contact me for a PDF if you don't have journal access
     url: '#contact'
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/15228916.2019.1583974?scroll=top&needAccess=true
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0972150919837813
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
