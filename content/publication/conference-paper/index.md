@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
+- name: Open Access PDF
   url: https://www.europeanproceedings.com/article/10.15405/epsbs.2020.10.61
 url_pdf: https://www.europeanproceedings.com/files/data/article/1023/11164/article_1023_11164_pdf_100.pdf
 
