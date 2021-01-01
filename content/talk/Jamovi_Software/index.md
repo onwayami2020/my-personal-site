@@ -18,10 +18,10 @@ abstract: "jamovi is a new 3rd generation statistical spreadsheet. designed from
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-01-30T12:00:00+02:00
 # date_end: 2021-01-30T13:00:00+02:00
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-30T00:34:30+02:00
+publishDate: 2020-12-30T00:34:30+02:00
 
 authors: []
 tags: []
