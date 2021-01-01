@@ -4,7 +4,7 @@
 title: "One Day Workshop on Jamovi: Free and Open Statistical Software"
 event: "UTB Postgraduate Talk Series 2021"
 event_url:
-location:
+location: "Universiti Teknologi Brunei"
 address:
   street:
   city:
@@ -17,7 +17,7 @@ abstract: "jamovi is a new “3rd generation” statistical spreadsheet. designe
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-01-30T12:00:00+02:00
-# date_end: 2020-07-30T13:00:00+02:00
+# date_end: 2021-01-30T13:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
