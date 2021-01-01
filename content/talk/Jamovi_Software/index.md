@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "jamovi is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. jamovi's ease of use makes it ideal for introducing people to statistics, and it's advanced features ensure students will be well equipped for the rigours of real research when they graduate. Over a hundred universities use jamovi to teach statistics"
+abstract: "jamovi is a new 3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. jamovi's ease of use makes it ideal for introducing people to statistics, and it's advanced features ensure students will be well equipped for the rigours of real research when they graduate. Over a hundred universities use jamovi to teach statistics."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
