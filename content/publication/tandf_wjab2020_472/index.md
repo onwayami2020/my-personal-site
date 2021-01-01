@@ -2,7 +2,7 @@
 title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
 authors:
 - admin
-- Noor Maya Salleh, Mohamed Saleem Haja Nazmudeen
+- Faridahwati Mohd. Shamsudin, Waheed Ali Umrani, Noor Maya Salleh
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1080/15228916.2019.1583974"
 
