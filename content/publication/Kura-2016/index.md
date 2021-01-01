@@ -15,7 +15,7 @@ publishDate: "2016-05-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Global Business Review, (3_suppl)*, 1S-14S"
+publication: "*Global Business Review, 3_suppl*, 1S-14S"
 publication_short: ""
 
 abstract: Although research supports the association between environmentally specific transformational leadership and employees’ green behaviour, the role of environmental concern in this relation is less understood. This study examined the possible mediating influence of environmental concern in the relation between environmentally specific transformational leadership and green behaviour at work among a sample of 171 public sector employees in Nigeria using a partial least square structural equation modelling (PLS-SEM). Results revealed that after controlling for age, education and gender, environmentally specific transformational leadership has a significant positive relationship with environmental concern, which in turn predicted the green behaviour at work in a positive direction. The results further revealed that environmental concern mediated the relationship between environmentally specific transformational leadership and green behaviour at work.
