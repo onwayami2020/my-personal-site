@@ -1,12 +1,8 @@
 ---
 title: "Linking Human Resource Development Practices to Counterproductive Work Behaviour: Does Employee Engagement Matter"
-
 authors:
-- Daniel S. Quintana
-- Torbjørn Elvsåshagen
-- Nathalia Zak
-- Linn B. Norbom
-
+- admin
+- Noor Maya Salleh, Mohamed Saleem Haja Nazmudeen
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1080/15228916.2019.1583974"
 
