@@ -54,7 +54,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Kabiru Maitama Kura
+title: Kabiru M. Kura
 email: ""
 ---
 <div class=text-justify> 
