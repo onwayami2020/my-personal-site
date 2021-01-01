@@ -4,7 +4,7 @@ authors:
 - Ekpe I
 - Mat N
 - Ahmad A
-- **Kura K M
+- Kura K M
 date: "2017-06-30T00:00:00Z"
 doi: "https://doi.org/10.1504/IJMIE.2017.086891"
 
