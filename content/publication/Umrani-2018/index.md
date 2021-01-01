@@ -29,9 +29,9 @@ tags: 'psurr'
 featured: false
 
 links:
-  - name: Contact me for a PDF if you don't have journal access
-    url: '#contact'
-url_pdf: https://doi.org/10.1108/PRR-12-2016-0011
+  - name: Open Access PDF
+    url: 'https://www.emerald.com/insight/content/doi/10.1108/PRR-12-2016-0011/full/pdf?title=corporate-entrepreneurship-and-business-performance-the-moderating-role-of-organizational-culture-in-selected-banks-in-pakistan'
+url_pdf: https://www.emerald.com/insight/content/doi/10.1108/PRR-12-2016-0011/full/pdf?title=corporate-entrepreneurship-and-business-performance-the-moderating-role-of-organizational-culture-in-selected-banks-in-pakistan
 url_code: ''
 url_dataset: ''
 url_poster: ''
