@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*RISUS-Journal on Innovation and Sustainability, 8* (1), 3-11"
 publication_short: ""
 
-abstract: Following a comprehensive review of the existant literature on human resource management (HRM) and organizational behavior, this paper proposes a conceptual model that highlights the role of contextual factor in affecting HRM practices-turnover intention relationships. More specifically, we propose that perceived organizational politics may play a moderating role between HRM practices and employees’ turnover intention. Propositions and directions for future research on employees’ turnover decisions are also offered.
+abstract: <div class=text-justify> Following a comprehensive review of the existant literature on human resource management (HRM) and organizational behavior, this paper proposes a conceptual model that highlights the role of contextual factor in affecting HRM practices-turnover intention relationships. More specifically, we propose that perceived organizational politics may play a moderating role between HRM practices and employees’ turnover intention. Propositions and directions for future research on employees’ turnover decisions are also offered. </div>
 
 # Summary. An optional shortened abstract.
 summary: ""
