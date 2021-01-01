@@ -1,8 +1,9 @@
 ---
 title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis"
 authors:
-- admin
-- Noor Maya Salleh, Mohamed Saleem Haja Nazmudeen
+- Kura K M
+- Salleh N M
+- Nazmudeen M S H
 date: "2019-07-01T00:00:00Z"
 doi: "10.15405/epsbs.2020.10.61"
 
