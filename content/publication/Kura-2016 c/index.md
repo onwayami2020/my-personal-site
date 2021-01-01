@@ -17,7 +17,7 @@ publishDate: "2016-07-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Business and Society, 17*(1), 1-118"
+publication: "*International Journal of Business and Society, 17*(1), 1-18"
 publication_short: ""
 
 abstract: Although extant empirical research on workplace deviance has traditionally focused on behaviours that threaten the well-being of an organization and/or its members, however, there is a paucity of research investigating constructive deviant behaviours, which play a significant role in creating positive organizational change. Drawing upon social exchange theory, this study examined organisational trust as a mediator of the relationship between perceived organisational support and constructive deviance. The data was obtained from a sample of 212 full-time employees of a public sector organization in Nigeria. Results from partial least square structural equation modeling (PLS-SEM) analyses revealed that perceived organisational support was positively related to constructive deviance. In addition, the results demonstrated that organisational trust partially mediated the relationship between perceived organisational support and constructive deviance.
