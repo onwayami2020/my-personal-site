@@ -6,7 +6,7 @@ authors:
 - Dasuki S I
 - Alkali A M
 date: "2020-10-11T00:00:00Z"
-doi: "http://ijms.uum.edu.my/images/IJMSvol27no2july2020/77-96.pdf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-11T00:00:00Z"
