@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oxytocin"
-summary: "Examining how the oxytocin system impacts mental states and physiology"
+title: "Enhancing opportunities for local small and medium sized enterprises through business development strategies practices among Bruneians’ entrepreneurs"
+summary: ""
 authors: []
-tags: ["oxytocin"]
+tags: ["internal project"]
 categories: []
-date: 2020-08-30T13:36:11+02:00
+date: 2020-12-15T14:50:11+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
