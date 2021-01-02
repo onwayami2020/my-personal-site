@@ -6,7 +6,6 @@ authors:
 - Dasuki S I
 - Alkali A M
 date: "2020-10-11T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-11T00:00:00Z"
