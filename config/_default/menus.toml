@@ -30,12 +30,12 @@
 
 [[main]]
   name = "Useful Links"
-  url = "#usefullinks"
+  url = "/usefullinks/"
   weight = 50
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/contact/"
   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
