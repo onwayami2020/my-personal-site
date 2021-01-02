@@ -4,7 +4,7 @@
 title: The Proceedings of the 1st International Conference on Business, Management and Information Systems 2019 (ICBMIS 2019)
 subtitle: ''
 summary: ''
-editors:
+authors:
 - Nazmudeen M S H
 - Mohiddin F
 - Kura K M
