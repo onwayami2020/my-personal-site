@@ -4,7 +4,7 @@
 title: "Enhancing opportunities for local small and medium sized enterprises through business development strategies practices among Bruneians’ entrepreneurs"
 summary: ""
 authors: []
-tags: ["Internal projectn"]
+tags: ["Internal Project"]
 categories: []
 date: 2020-09-18T11:41:11+08:00
 
