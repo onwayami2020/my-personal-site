@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Blog"
-  url = "https://www.kmkura.blog/"
+  name = "Collaborators"
+  url = "https://www.moresearchlab.org/"
   weight = 50
 
 [[main]]
