@@ -25,8 +25,7 @@ abstract: <div class=text-justify> Over the past three decades, transformational
 # Summary. An optional shortened abstract.
 summary: We utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performance.
 
-tags:
-- Source Themes
+tags: ''
 featured: false
 
 links:
@@ -57,13 +56,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
