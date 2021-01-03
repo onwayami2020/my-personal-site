@@ -15,6 +15,10 @@
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, or `coffee`.
+  color_theme = "forest"
+
 # Enable users to switch between day and night mode?
 day_night = true
 
