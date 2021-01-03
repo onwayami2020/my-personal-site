@@ -27,7 +27,7 @@ abstract: <div class=text-justify> The purpose of this study was to investigate 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: "risus"
+tags: ""
 featured: false
 
 links:
