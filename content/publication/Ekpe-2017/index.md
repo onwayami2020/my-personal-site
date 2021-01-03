@@ -26,7 +26,7 @@ abstract: <div class=text-justify> To develop greater interest in enterprise sta
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: 'ijmie'
+tags: ''
 featured: false
 
 links:
