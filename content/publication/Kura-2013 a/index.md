@@ -25,7 +25,7 @@ abstract: <div class=text-justify>  Several factors have been suggested to expla
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: "Workplace deviance"
+tags: ""
 featured: false
 
 links:
