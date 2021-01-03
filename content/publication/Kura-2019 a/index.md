@@ -26,8 +26,7 @@ abstract: <div class=text-justify> Although there is strong evidence in the lite
 # Summary. An optional shortened abstract.
 summary: The present study examined whether employee engagement mediates the relationship between HRD practices and CWB.
 
-tags:
-- Source Themes
+tags: ''
 featured: false
 
 links:
@@ -64,12 +63,3 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
