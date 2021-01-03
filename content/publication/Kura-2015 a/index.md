@@ -25,7 +25,7 @@ abstract: <div class=text-justify> Extant empirical research has reported confli
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: "sgo"
+tags: ""
 featured: false
 
 links:
