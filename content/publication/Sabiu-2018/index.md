@@ -17,7 +17,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 3rd International Conference on Accounting, Management and Economics 2018 (ICAME 2018) - AAMC 2019*
+publication: In *Proceedings of the 3rd International Conference on Accounting, Management and Economics 2018 (ICAME 2018)*
 publication_short: ''
 
 abstract: <div class=text-justify> This study is aimed at examining the relationship between human resource management practices and organizational performance. Training and development and compensation practices were mainly incorporated in our research model. A sample of 181 Education Ministry, boards, parastatals and agencies in seven states of North-Western Nigeria was drawn using stratified proportionate sampling technique. We employed partial least squares path modeling to test our hypothesized model. As expected, we found that training and development had a significant and positive relationship with organizational performance. In the same vein, compensation system was found to be significantly related to organizational performance. Consequently, policy makers, managers and administrators in educational sector are encouraged to provide adequate training to its employees as well as appropriate compensation system need to be able to put in place to promote high employee performance and in return achieve organizational performance. </div>
