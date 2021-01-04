@@ -1,14 +1,14 @@
 ---
-title: "Elucidating the influence of transformational leadership on job Performance: A metabus-enabled meta-analysis"
+title: "Linking Human Resource Management Practices to Organizational Performance in Nigeria Education Sector"
 authors:
+- Sabiu M S
 - Kura K M
-- Salleh N M
-- Nazmudeen M S H
+- Reni A
 date: "2019-07-01T00:00:00Z"
-doi: "10.15405/epsbs.2020.10.61"
+doi: "https://doi.org/10.2991/icame-18.2019.28"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,27 +17,30 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *European Proceedings of Social and Behavioural Sciences - Volume 88 - AAMC 2019*
-publication_short: In *European Proceedings of Social and Behavioural Sciences*
+publication: In *Proceedings of the 3rd International Conference on Accounting, Management and Economics 2018 (ICAME 2018) - AAMC 2019*
+publication_short: ''
 
-abstract: Over the past three decades, transformational leadership has emerged as a significant antecedent of employee performance across a wide variety of contexts. Prior research has employed meta-analysis to confirm the effect of transformational leadership on job performance. While researchers and practitioners in the field of industrial and organizational psychology have relied heavily on meta-analyses, however, this approach are time consuming and also becoming increasingly difficult to obtain effect sizes as the amount of available research grows exponentially. To address this concern, we utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performance. As expected, the meta-analysis confirmed the positive relationship between transformational leadership and job performance. The practical implications and suggestions for future research have been discussed.
+abstract: <div class=text-justify> This study is aimed at examining the relationship between human resource management practices and organizational performance. Training and development and compensation practices were mainly incorporated in our research model. A sample of 181 Education Ministry, boards, parastatals and agencies in seven states of North-Western Nigeria was drawn using stratified proportionate sampling technique. We employed partial least squares path modeling to test our hypothesized model. As expected, we found that training and development had a significant and positive relationship with organizational performance. In the same vein, compensation system was found to be significantly related to organizational performance. Consequently, policy makers, managers and administrators in educational sector are encouraged to provide adequate training to its employees as well as appropriate compensation system need to be able to put in place to promote high employee performance and in return achieve organizational performance. </div>
 
 # Summary. An optional shortened abstract.
-summary: We utilized metaBUS, a cloud-based research synthesis platform to identify studies conducted between 1980 and 2017. In particular, the search yielded 58031 studies with 713 effect sizes, which were used to replicate and confirm extant studies linking transformational leadership to different facets of job performance.
+summary: ''
 
 tags:
-- Source Themes
+- Training & development
+- Compensation system
+- Organizational performance
+- Nigeria
 featured: false
 
 links:
 - name: Open Access PDF
-  url: https://www.europeanproceedings.com/article/10.15405/epsbs.2020.10.61
-url_pdf: https://www.europeanproceedings.com/files/data/article/1023/11164/article_1023_11164_pdf_100.pdf
+  url: https://doi.org/10.2991/icame-18.2019.28
+url_pdf: https://doi.org/10.2991/icame-18.2019.28
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -46,8 +49,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: ''
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -57,13 +60,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
