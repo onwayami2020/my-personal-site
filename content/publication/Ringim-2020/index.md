@@ -20,28 +20,7 @@ publication_types: ["2"]
 publication: "*Journal of Entrepreneurship and Business, 8* (1), 104-119"
 publication_short: ""
 
-abstract: <div class=text-justify> Supply chain management practices contributed to supply chainPerformance and activities related to supply chain management that create
-and enhanced level of supply chain responsiveness in competitive business marketplace. The objectives of this study were to examine the impact of
-supply chain management practices such as strategic supplier partnership, customer relationship, information sharing on competitive advantage and
-performance of Food and Beverages Organizations in Brunei Darussalam.
-Cross-sectional survey research on 182 sampled Foods and Beverages
-Organizations in Brunei Darussalam were selected from a populationof
-300 using simple random sampling technique of probability sampling
-method. Descriptive and inferential statistics (Correlation and Regression
-Analysis) were employed to analyze the relationship and test the
-hypotheses of the study. The findings of the survey revealed that strategic
-supplier partnership, customer relationship, information sharing have
-related to competitive advantage and performance of Food and Beverages
-Organizations in Brunei Darussalam. In addition, strategic supplier
-partnership, customer relationship, information sharing have significant
-and positive impact on competitive advantage and performance. Strategic supplier’s partnership was found to be insignificant with organizational
-performance. The outcome of this study provides vital information on the
-influence and impact of Supply chain Management Practices dimensions
-on competitive advantage and performance of Food and Beverages
-Organizations. The managerial implication of this study is for Food and
-Beverages Organizations. In Brunei to focus on practical customer
-relationship and information sharing with partners to ensure
-organization’s competitive advantage and performance.. </div>
+abstract: <div class=text-justify> Supply chain management practices contributed to supply chainPerformance and activities related to supply chain management that create and enhanced level of supply chain responsiveness in competitive business marketplace. The objectives of this study were to examine the impact of supply chain management practices such as strategic supplier partnership, customer relationship, information sharing on competitive advantage and performance of Food and Beverages Organizations in Brunei Darussalam. Cross-sectional survey research on 182 sampled Foods and Beverages Organizations in Brunei Darussalam were selected from a populationof 300 using simple random sampling technique of probability sampling method. Descriptive and inferential statistics (Correlation and Regression Analysis) were employed to analyze the relationship and test the hypotheses of the study. The findings of the survey revealed that strategic supplier partnership, customer relationship, information sharing have related to competitive advantage and performance of Food and Beverages Organizations in Brunei Darussalam. In addition, strategic supplier partnership, customer relationship, information sharing have significant and positive impact on competitive advantage and performance. Strategic supplier’s partnership was found to be insignificant with organizational performance. The outcome of this study provides vital information on the influence and impact of Supply chain Management Practices dimensions on competitive advantage and performance of Food and Beverages Organizations. The managerial implication of this study is for Food and Beverages Organizations. In Brunei to focus on practical customer relationship and information sharing with partners to ensure organization’s competitive advantage and performance.. </div>
 
 # Summary. An optional shortened abstract.
 summary: ""
