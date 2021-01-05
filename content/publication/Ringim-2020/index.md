@@ -1,5 +1,5 @@
 ---
-title: "Moderating Role of Perceived Social Support on the Relationship Between Entrepreneurship Education and Entrepreneurial Intention"
+title: "Impact of Supply chain Management Practices on Competitive Advantage and Performance of Food and Beverages Organizations in Brunei Darussalam"
 authors:
 - Ringim K J
 - Abdullahi N
