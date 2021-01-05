@@ -25,7 +25,11 @@ abstract: <div class=text-justify> Supply chain management practices contributed
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ""
+tags: 
+- Supply chain Management
+- Competitive Advantage 
+- Organizational Performance 
+- Brunei Darussalam
 featured: false
 
 links:
