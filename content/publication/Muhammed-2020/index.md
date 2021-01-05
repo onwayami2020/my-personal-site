@@ -25,7 +25,10 @@ abstract: <div class=text-justify> Globally, the need for entrepreneurial activi
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ""
+tags: 
+- Social Support 
+- Entrepreneurship Education 
+- Entrepreneurial Intention
 featured: false
 
 links:
