@@ -1,5 +1,5 @@
 ---
-title: "Self-regulatory Efficacy as Potential Moderator on the Relationship Between Organisational Formal Controls, Perceived Group Norms and Workplace Deviance: A Proposed Framework"
+title: "Mediating role of self-regulatory efficacy on the relationship between punishment certainty, punishment severity and organizational deviance"
 authors:
 - Kura K M
 - Shamsudin F M
