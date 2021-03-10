@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "One Day Workshop on Jamovi: Free and Open Statistical Software"
-event: "UTB Postgraduate Talk Series 2021"
+title: "One Day Workshop on Variance-Based Structural Equation Modeling using ADANCO Software"
+event: "UTB School of Business Postgraduate Talk Series 2021"
 event_url:
 location: "Universiti Teknologi Brunei"
 address:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "<div class=text-justify> Jamovi is a new 3rd generation statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. This one-day course provides a profound introduction to Jamovi: Free and Open Statistical Software. The course has been designed for PhD students who are interested in learning how to use Jamovi Software in their own research applications. A basic knowledge of multivariate statistics and SEM techniques is helpful, but not required. The session will cover theory and its application. Specifically, theoretical explanations underlying the software procedures and practical exercises where participants will apply their learning to real-world examples provided by the instructor.</div>"
+abstract: "<div class=text-justify> ADANCO (“advanced analysis of composites”) is a user-friendly software for variance-based structural equation modeling (Henseler et al., 2015; Reinartz, et al., 2009; SEM).The software can be used to implement “partial least squares path modeling (PLS),   consistent PLS (PLSc), confirmatory composite analysis (CCA),   extraction of the first principal component (PCA), ordinary least squares regression (OLS), sum scores, canonical correlation analysis, and bootstrapping (Henseler et al., 2017, p.1). This one-day workshop is aimed at providing a profound introduction to statistical analysis using ADANCO Software. The course has been designed for PhD students who are interested in learning how to use ADANCO Software in their own research applications. A basic knowledge of multivariate statistics and SEM techniques is helpful, but not required. The session will cover theory and its application. Specifically, theoretical explanations underlying the software procedures and practical exercises where participants will apply their learning to real-world examples provided by the instructor.</div>"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-01-30T12:00:00+02:00
-# date_end: 2021-01-30T13:00:00+02:00
+# date_end: 2021-03-11T13:00:00+08:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-30T00:34:30+02:00
+publishDate: 2021-03-10T00:09:00+08:00
 
 authors: []
 tags: []
