@@ -17,11 +17,11 @@ abstract: "<div class=text-justify> ADANCO (â€œadvanced analysis of compositesâ€
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-03-20T12:00:00+02:00
-# date_end: 2021-03-20T9:00:00+08:00
+# date_end: 2021-03-20T12:00:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-03-20T9:9:00+08:00
+publishDate: 2021-03-20T12:00:00+02:00
 
 authors: []
 tags: []
