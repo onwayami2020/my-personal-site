@@ -1,13 +1,14 @@
 ---
 title: "Theorising the boundary condition between psychological capital and graduate employability: Does grit matter?"
 authors:
-- Mashod H
+- AlAnazi A A
 - Kura K M
-- Ringim K J
-date: "2020-12-09T00:00:00Z"
+- Suleiman E S
+- Abubakar R A
+date: "2021-06-16T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-09T00:00:00Z"
+publishDate: "2021-06-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,25 +17,25 @@ publishDate: "2020-12-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ETH Learning and Teaching Journal, 2*(2), 78–83"
+publication: "*International Journal of Innovation Science, x*(x), 1–23"
 publication_short: ""
 
-abstract: <div class=text-justify>  The construct of graduate employability (GE) has received considerable attention from researchers and practitioners because of its crucial role in national economic agendas. Previous research is mixed in terms of the association between psychological capital (PsyCap) and GE. This represents a significant theoretical gap in the literature. To address this knowledge gap and better understand the relationship, we proposed grit as the potential “moderator” between PsyCap and GE. By incorporating grit as moderator, this paper aims to contribute to concept and theory development in the field of educational management. The paper provides valuable insights that support the notion that PsyCap and grit acquisition enhance GE. </div>
+abstract: <div class=text-justify>  Does organisational innovation play a mediating role in change-oriented leadership -organizational performance relationship? To address this question, we drew from a resource-based view to examine the mediating role of organisational innovation in the relationship between change-oriented leadership and organizational performance. The resource-based view supported our research model. Given that the unit of analysis is an organisation. 219 principal officers, including Presidents Rectors, Vice Presidents/Vice-Rectors, Registrars. and Deans, were invited to complete the survey on behalf of their universities. Results of the partial least squares structural equation modelling confirmed the positive relationship between change-oriented leadership and university performance. The results provide evidence that organisational innovation directly facilitates university performance. As expected, the relationship between change-oriented leadership and university performance was found to be mediated by organisational innovation. Overall, this study successfully modelled organisational innovation as an underlying mechanism behind the change-oriented leadership  university performance relationship, thereby by testing resource-based theory in Saudi Arabian context. From a practical perspective, results suggest that to improve their performance is imperative for executive leaders in Saudi universities to focus on several specific work design strategies, obtaining feedback about their change-oriented leadership style from followers. While there has been a considerable amount of research emphasising the importance of change-oriented leadership, there has been little research linking this fundamental aspect of leadership to organizational performance. Yet an understanding of the possible mechanisms behind this linkage has not received attention. </div>
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- Psychological capital
-- Graduate employability
-- Grit personality trait
+- change-oriented leadership
+- organizational innovation
+- organisational performance
 
 featured: false
 
 links:
   - name: Open Access PDF
-    url: 'https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144'
-url_pdf: https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144
+    url: 'https://dx.doi.org/10.1108/IJIS-03-2021-0051'
+url_pdf: https://dx.doi.org/10.1108/IJIS-03-2021-0051
 url_code: ''
 url_dataset: ''
 url_poster: ''
