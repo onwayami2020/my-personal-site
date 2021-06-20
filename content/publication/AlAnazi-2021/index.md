@@ -35,7 +35,7 @@ featured: false
 links:
   - name: Open Access PDF
     url: 'https://dx.doi.org/10.1108/IJIS-03-2021-0051'
-url_pdf: 'https://dx.doi.org/10.1108/IJIS-03-2021-0051
+url_pdf: https://dx.doi.org/10.1108/IJIS-03-2021-0051
 url_code: ''
 url_dataset: ''
 url_poster: ''
