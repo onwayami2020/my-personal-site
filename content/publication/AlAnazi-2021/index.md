@@ -33,9 +33,9 @@ tags:
 featured: false
 
 links:
-  - name: Open Access PDF
-    url: 'https://dx.doi.org/10.1108/IJIS-03-2021-0051'
-url_pdf: https://dx.doi.org/10.1108/IJIS-03-2021-0051
+  - name: Open Access PDF 
+    url: 'http://www.growingscience.com/msl/Vol4/msl_2014_253.pdf'
+url_pdf: http://www.growingscience.com/msl/Vol4/msl_2014_253.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
