@@ -34,8 +34,8 @@ featured: false
 
 links:
   - name: Open Access PDF 
-    url: 'http://www.growingscience.com/msl/Vol4/msl_2014_253.pdf'
-url_pdf: http://www.growingscience.com/msl/Vol4/msl_2014_253.pdf
+    url: 'https://journals.utm.my/jurnalteknologi/article/view/2232/1776'
+url_pdf: https://journals.utm.my/jurnalteknologi/article/view/2232/1776
 url_code: ''
 url_dataset: ''
 url_poster: ''
