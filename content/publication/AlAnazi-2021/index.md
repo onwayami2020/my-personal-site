@@ -27,9 +27,9 @@ abstract: <div class=text-justify>  We drew from a resource-based view to examin
 summary: ""
 
 tags:
-- Psychological capital
-- Graduate employability
-- Grit personality trait
+- Organisational innovation
+- Change-oriented leadership
+- Organizational performance
 
 featured: false
 
