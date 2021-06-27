@@ -7,9 +7,7 @@ interests:
   - Workplace deviance
   - Organisational citizenship behaviour
   - Green behaviour at work
-  - Open Science
-  - Meta Science
-  social:
+social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
