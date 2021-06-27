@@ -17,7 +17,7 @@ publishDate: "2021-06-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Innovation Science, 2*(2), 78–83"
+publication: "*International Journal of Innovation Science, x*(x), 1–23"
 publication_short: ""
 
 abstract: <div class=text-justify>  We drew from a resource-based view to examine the mediating role of organisational innovation in the relationship between change-oriented leadership and organizational performance. The resource-based view supported our research model. Given that the unit of analysis is an organisation. 219 principal officers, including Presidents Rectors, Vice Presidents/Vice-Rectors, Registrars. and Deans, were invited to complete the survey on behalf of their universities. Results of the partial least squares structural equation modelling confirmed the positive relationship between change-oriented leadership and university performance. The results provide evidence that organisational innovation directly facilitates university performance. As expected, the relationship between change-oriented leadership and university performance was found to be mediated by organisational innovation. Overall, this study successfully modelled organisational innovation as an underlying mechanism behind the change-oriented leadership university performance relationship, thereby by testing resource-based theory in Saudi Arabian context. From a practical perspective, results suggest that to improve their performance is imperative for executive leaders in Saudi universities to focus on several specific work design strategies, obtaining feedback about their change-oriented leadership style from followers. While there has been a considerable amount of research emphasising the importance of change-oriented leadership, there has been little research linking this fundamental aspect of leadership to organizational performance. Yet an understanding of the possible mechanisms behind this linkage has not received attention enhance. </div>
@@ -34,8 +34,8 @@ featured: false
 
 links:
   - name: Open Access PDF
-    url: 'https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144'
-url_pdf: https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144
+    url: 'https://www.researchgate.net/publication/352466299_Does_organisational_innovation_play_a_mediating_role_in_change-oriented_leadership_-organizational_performance_relationship'
+url_pdf: https://www.researchgate.net/publication/352466299_Does_organisational_innovation_play_a_mediating_role_in_change-oriented_leadership_-organizational_performance_relationship
 url_code: ''
 url_dataset: ''
 url_poster: ''
