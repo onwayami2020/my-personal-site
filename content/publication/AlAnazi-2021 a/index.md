@@ -3,7 +3,6 @@ title: "Does organisational innovation play a mediating role in change-oriented 
 authors:
 - AlAnazi A A
 - Kura K M
-- Suleiman E S
 - Abubakar R A
 date: "2021-06-16T00:00:00Z"
 
