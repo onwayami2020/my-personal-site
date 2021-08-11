@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Study on User Satisfaction of E-HRM - Evidence From Brunei Government Employee Management System (GEMS)"
+title: "Exploratory Study on User Satisfaction of E-HRM"
 authors:
 - Ibrahim F
 - Suhip H
