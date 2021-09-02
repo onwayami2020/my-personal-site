@@ -6,6 +6,7 @@ authors:
 - Suleiman E S
 - Abubakar R A
 date: "2021-09-01T00:00:00Z"
+doi: "https://doi.org/10.1108/IJIS-03-2021-0051"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-01T00:00:00Z"
