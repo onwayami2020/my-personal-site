@@ -26,9 +26,9 @@ abstract: <div class=text-justify>  With the high demands to provide service qua
 summary: ""
 
 tags:
-- Organisational performancen
-- Change-oriented leadership
-- Organisational innovation
+- Employee Management System 
+- User Satisfaction
+- Electronic Human Resource Management
 
 featured: false
 
