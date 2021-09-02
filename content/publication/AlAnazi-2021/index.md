@@ -27,7 +27,7 @@ abstract: <div class=text-justify>  This study examined the mediating role of or
 summary: ""
 
 tags:
-- Organisational performancen
+- Organisational performance
 - Change-oriented leadership
 - Organisational innovation
 
