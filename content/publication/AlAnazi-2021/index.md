@@ -31,10 +31,9 @@ tags:
 - Self-control
 
 featured: false
-
 links:
-  - name: Open Access PDF
-    url: 'https://www.emerald.com/insight/content/doi/10.1108/IJIS-03-2021-0051/full/html'
+  - name: Contact me for a PDF if you don't have journal access
+    url: '#contact'
 url_pdf: https://www.emerald.com/insight/content/doi/10.1108/IJIS-03-2021-0051/full/html
 url_code: ''
 url_dataset: ''
