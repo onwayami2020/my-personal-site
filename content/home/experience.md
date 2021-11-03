@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Nigeria"
   date_start = "2007-05-15"
-  date_end = "2018-06-02"
+  date_end = "2021-03-01"
   description = """Taught Organisational Behaviour, Principles of Management and Introduction to Business."""
 
 +++
