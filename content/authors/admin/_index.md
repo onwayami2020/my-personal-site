@@ -63,7 +63,7 @@ Kabiru Maitama Kura is an Assistant Professor of HRM & Organisational Behaviour 
 
 Kabiru earned a Doctor of Philosophy degree (PhD) in Human Resource Management from Universiti Utara Malaysia. Kabiru has published in SCOPUS, Web of Science, ABS Ranking and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
 
-He is a member of, the American Psychological Association (APA), member of, the Nigerian Institute of Management (Chartered), Member of, the Commodity Brokers Association of Nigeria, member, Nigerian Institute of Management (Chartered), member of, the Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
+He is a member of, the Society for Human Resource Management (SHRM), member of, the American Psychological Association (APA), member of, the Nigerian Institute of Management (Chartered), Member of, the Commodity Brokers Association of Nigeria, member, Nigerian Institute of Management (Chartered), member of, the Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
 
 </div>
 
