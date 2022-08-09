@@ -9,8 +9,7 @@ interests:
   - Workplace green behaviour
   - Equity, diversity, and inclusion
   - Open science, and meta-analysis
-  
-  - social:
+social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
