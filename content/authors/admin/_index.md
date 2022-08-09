@@ -8,7 +8,7 @@ interests:
   - Counterproductive work behaviour
   - Organisational citizenship behaviour
   - Job attitudes
-  - Personality and individual differences
+  - Personality & individual differences
   - Workplace green behaviour
   - Equity, diversity, and inclusion
   - Open science, and meta-analysis
