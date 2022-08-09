@@ -5,9 +5,14 @@ bio: My research interests include workplace deviance, organisational
   green behaviour at work, and leadership.
 interests:
   - Workplace deviance
+  - Counterproductive work behaviour
   - Organisational citizenship behaviour
-  - Green behaviour at work
-social:
+  - Job attitudes, personality and individual differences
+  - Workplace green behaviour
+  - Safety performance,
+  - Equity, diversity, and inclusion
+  - Open science, and meta-analysis
+  - social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
