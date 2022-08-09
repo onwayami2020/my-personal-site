@@ -7,7 +7,6 @@ interests:
   - Workplace deviance
   - Counterproductive work behaviour
   - Organisational citizenship behaviour
-  - Job attitudes, personality and individual differences
   - Workplace green behaviour
   - Safety performance,
   - Equity, diversity, and inclusion
