@@ -1,12 +1,3 @@
----
-title: Statement of Diversity
-math: false
-diagram: false
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
----
-
 **Statement of Contribution to Diversity, Equity and Inclusion**:
 
 <div class=text-justify> 
