@@ -9,8 +9,6 @@ image:
 
 **Statement of Contribution to Diversity, Equity and Inclusion**:
 
-**Statement of Contribution to Diversity, Equity and Inclusion**:
-
 <div class=text-justify> 
 
 My journey toward contributing to diversity, equity and inclusion began a decade before I had the opportunity to become a lecturer at the polytechnic in one of the educationally underrepresented states in Nigeria. For instance, as an early career teacher, I had two students with special educational needs in my commerce class. To help these students fully achieve their potential, I employed inclusive teaching and assessment strategies, such as providing extra time for in-class activities, quizzes, and examinations.
