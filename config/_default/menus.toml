@@ -30,6 +30,11 @@
 
 [[main]]
   name = "Useful Links"
+  url = "/statementofdiversity"
+  weight = 50
+  
+  [[main]]
+  name = "Statement of Diversity"
   url = "/usefullinks"
   weight = 50
 
