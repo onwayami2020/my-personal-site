@@ -70,15 +70,6 @@ Kabiru earned a Doctor of Philosophy degree (PhD) in Human Resource Management f
 
 He is a member of various professional bodies, including the Academy of Management (AOM), Society for Human Resource Management (SHRM), British Academy of Management (BAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
   
-  ---
-title: Statement of Diversity
-math: false
-diagram: false
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
----
-
 **Statement of Contribution to Diversity, Equity and Inclusion**:
   
 My journey toward contributing to diversity, equity and inclusion began a decade before I had the opportunity to become a lecturer at the polytechnic in one of the educationally underrepresented states in Nigeria. For instance, as an early career teacher, I had two students with special educational needs in my commerce class. To help these students fully achieve their potential, I employed inclusive teaching and assessment strategies, such as providing extra time for in-class activities, quizzes, and examinations.
