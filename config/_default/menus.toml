@@ -36,7 +36,7 @@
   [[main]]
   name = "Useful Links"
   url = "/usefullinks"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
