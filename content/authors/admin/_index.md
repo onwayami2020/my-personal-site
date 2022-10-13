@@ -40,7 +40,7 @@ social:
 organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academic/utb-school-of-business/
-  - name: Department of Business Management, Capital City University Kano, Nigeria
+  - name: Visiting Associate Professor (Reader) of Business Management, Capital City University Kano, Nigeria
     url: http://www.utb.edu.bn/academic/utb-school-of-business/
 education:
   courses:
