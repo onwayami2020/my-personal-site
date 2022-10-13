@@ -1,6 +1,5 @@
 ---
 role: Assistant Professor of HRM & Organisational Behaviour
-role: Assistant Professor of HRM & Organisational Behaviour
 bio: My research interests include workplace deviance, organisational
   citizenship behaviour, job attitudes, personality and individual differences,
   green behaviour at work, and leadership.
