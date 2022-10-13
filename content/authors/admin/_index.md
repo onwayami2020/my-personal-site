@@ -41,7 +41,7 @@ organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academic/utb-school-of-business/
   - name: Visiting Associate Professor (Reader), Capital City University Kano, Nigeria
-    url: http://www.utb.edu.bn/academic/utb-school-of-business/
+    url: https://ccuk.edu.ng/
 education:
   courses:
     - course: PhD in Human Resource Management
