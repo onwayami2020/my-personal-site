@@ -32,10 +32,10 @@ date_format = "Jan 2006"
   organization = "University of California, Irvine"
   organization_url = "https://www.edx.org"
   title = "Human Resources Analytics"
-  url = "https://www.coursera.org/account/accomplishments/verify/D6WHESSSV8KQ"
+  url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2022-10-22"
   date_end = ""
-  description = "This course focuses on identifying effective data sources, developing meaningful metrics...."
+  description = ""
   
 +++
