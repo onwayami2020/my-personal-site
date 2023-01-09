@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2022-10-22"
   date_end = ""
-  description = "This course focuses on identifying effective data sources, developing meaningful metrics, designing long-term measures, and applying results in support of organizational strategy and tactics."
+  description = "This course focuses on identifying effective data sources, developing meaningful metrics...."
   
 +++
