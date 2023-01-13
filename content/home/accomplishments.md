@@ -28,4 +28,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "University of California, Irvine via Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Human Resources Analytics"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2022-10-22"
+  date_end = ""
+  description = ""
+
 +++
