@@ -28,24 +28,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "Johns Hopkins University via Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Introduction to Systematic Review and Meta-Analysis"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2021-03-01"
-  date_end = ""
-  description = ""
-  
-  [[item]]
-  organization = "Johns Hopkins University via Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Introduction to Systematic Review and Meta-Analysis"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2021-03-01"
-  date_end = ""
-  description = ""
-  
 +++
