@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University of California, Irvine"
-  organization_url = "https://www.edx.org"
+  organization = "University of California, Irvine via Coursera"
+  organization_url = "https://www.coursera.org"
   title = "Human Resources Analytics"
   url = ""
   certificate_url = "https://www.coursera.org"
