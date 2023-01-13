@@ -29,12 +29,22 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "University of California, Irvine via Coursera"
+  organization = "Johns Hopkins University via Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Human Resources Analytics"
+  title = "Introduction to Systematic Review and Meta-Analysis"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2022-10-22"
+  date_start = "2021-03-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "Johns Hopkins University via Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Systematic Review and Meta-Analysis"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2021-03-01"
   date_end = ""
   description = ""
   
