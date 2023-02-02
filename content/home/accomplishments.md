@@ -19,21 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Johns Hopkins University via Coursera"
+  organization = "University of California, Irvine"
   organization_url = "https://www.coursera.org"
-  title = "Introduction to Systematic Review and Meta-Analysis"
+  title = "Human Resources Analytics"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2021-03-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/D6WHESSSV8KQ"
+  date_start = "2022-10-22"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "Johns Hopkins University via Coursera"
+  organization = "Johns Hopkins University"
   organization_url = "https://www.coursera.org"
   title = "Introduction to Systematic Review and Meta-Analysis"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/B8BBMYHPUL2R"
   date_start = "2021-03-01"
   date_end = ""
   description = ""
