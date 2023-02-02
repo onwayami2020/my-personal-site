@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Johns Hopkins University"
+  organization = "Johns Hopkins University via Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Introduction to Systematic Review and Meta-Analysis via Coursera"
+  title = "Introduction to Systematic Review and Meta-Analysis"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/B8BBMYHPUL2R"
   date_start = "2021-03-01"
