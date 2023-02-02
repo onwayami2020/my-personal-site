@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Johns Hopkins University via Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Systematic Review and Meta-Analysis"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2021-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
   organization = "DataCamp"
