@@ -29,8 +29,8 @@
   weight = 50
 
 [[main]]
-  name = "Statement of Diversity"
-  url = "/statementofdiversity"
+  name = "Guiding Principles"
+  url = "/guidingprinciples"
   weight = 50
   
   [[main]]
