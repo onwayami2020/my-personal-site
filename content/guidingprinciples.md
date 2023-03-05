@@ -19,6 +19,7 @@ As a researcher and academician, I am committed to enhancing my professional dev
 Taken together, my teaching philosophy reflects that I have a strong passion for HRM/ Organizational behavior and dedication to student success. By adopting this philosophy, I hope to contribute positively to the teaching, supervising, and mentoring of future HRM leaders who can make a difference in their organizations and society.
 
 References
+  
 Rosli, R., Basri, A. M., Kura, K. M., & Adenan, R. (2022, January 29). Adapting UTB'S teaching style to promote visionary thinking. The Borneo Bulletin Online. https://borneobulletin.com.bn/towards-advancing-into-the-future/
 
 **My Service Statement**:
