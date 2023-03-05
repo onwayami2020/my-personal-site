@@ -31,7 +31,7 @@ To provide service to my university, I have participated wholeheartedly in sever
 
 With regard to my commitment to serving the greater good of society, I have participated in several outreach and public engagement initiatives designed to share the results of my study and my area of expertise with a more vast audience. For example, I have given keynote speeches at industry and academic events and provided consulting services for various organizations, such as the Ministry of Education Brunei Darussalam, Ministry of Defence (MINDEF), Brunei Darussalam, Royal Brunei Police Force, and Brunei’s Authority for Info-communications Technology Industry. Furthermore, I am currently serving as a reader (associate professor) pro bono at the Department of Business Management, Capital City University, Kano, Nigeria, to give back to my country.
 
-Finally, one of my goals in the future is to maintain my participation in volunteer activities that benefit my professional growth, the development of my industry, the enhancement of my institution, and the welfare of society. As an academician and researcher, one of my goals is to grow my network of collaborators, partners, and other stakeholders and enhance my influence and visibility in the field.
+Finally, one of my goals in the future is to maintain my participation in volunteer activities that benefit my professional growth, the enhancement of my university, and the welfare of society. As an academician and researcher, one of my goals is to grow my network of collaborators, partners, and other stakeholders and enhance my influence and visibility in the field.
 
   
 </div>
