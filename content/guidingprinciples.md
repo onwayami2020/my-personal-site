@@ -34,7 +34,7 @@ I have participated wholeheartedly in several departmental, faculty, and univers
   
 With regard to my commitment to serving the greater good of society, I have participated in several outreach and public engagement initiatives designed to share the results of my study and my area of expertise with a more vast audience. For example, I have given keynote speeches at industry and academic events and provided consulting services for various organizations, such as the Ministry of Education Brunei Darussalam, Ministry of Defence (MINDEF), Brunei Darussalam, Royal Brunei Police Force, and Brunei's Authority for Info-communications Technology Industry. 
   
-Finally, Furthermore, I am currently serving as a reader (associate professor) pro bono at the Department of Business Management, Capital City University, Kano, Nigeria, to give back to my country.
+Finally, I am currently serving as a reader (associate professor) pro bono at the Department of Business Management, Capital City University, Kano, Nigeria, to give back to my country.
 
 </div>
 
