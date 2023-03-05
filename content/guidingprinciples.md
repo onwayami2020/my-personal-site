@@ -21,7 +21,19 @@ Taken together, my teaching philosophy reflects that I have a strong passion for
 References
 Rosli, R., Basri, A. M., Kura, K. M., & Adenan, R. (2022, January 29). Adapting UTB'S teaching style to promote visionary thinking. The Borneo Bulletin Online. https://borneobulletin.com.bn/towards-advancing-into-the-future/
 
+**My Service Statement**:
+  
+As a faculty member, I have actively participated in various service activities congruent with my research interests and teaching goals. I prioritize service because I believe it is the best way to grow intellectually and professionally.
 
+  As part of my strong commitment to giving back to the academic and professional communities, I have held a guest editing position at the Frontiers in Psychology, a prestigious peer-reviewed academic journal. In addition, I have chaired multiple sessions at international conferences, including the Asian Academy of Management Conference, the International Conference on Business Management, and the International Conference on Business, Management, and Information Systems. Additionally, I chaired the executive committee of the Nigerian Institute of Management (Chartered), Zaria Chapter, Nigeria, between 2016 and 2018.
+
+To provide service to my university, I have participated wholeheartedly in several departmental, faculty, and university committees. For instance, I served on the European Foundation for Management Development (EFMD) program-based accreditation committee as a departmental examination officer, the university’s Research Coordinator, and Deputy Dean of Research. Also, I have been involved in several university-industry collaborative projects, such as the Brunei Darussalam Information and Communication Technology (ICT) Household Survey 2022, Survey on the Readiness of Industry, and TVET. Institutions for IR 4.0 in Southeast Asia, facilitating workshops, organizing guest lectures, and mentoring graduate students.
+
+With regard to my commitment to serving the greater good of society, I have participated in several outreach and public engagement initiatives designed to share the results of my study and my area of expertise with a more vast audience. For example, I have given keynote speeches at industry and academic events and provided consulting services for various organizations, such as the Ministry of Education Brunei Darussalam, Ministry of Defence (MINDEF), Brunei Darussalam, Royal Brunei Police Force, and Brunei’s Authority for Info-communications Technology Industry. Furthermore, I am currently serving as a reader (associate professor) pro bono at the Department of Business Management, Capital City University, Kano, Nigeria, to give back to my country.
+
+Finally, one of my goals in the future is to maintain my participation in volunteer activities that benefit my professional growth, the development of my industry, the enhancement of my institution, and the welfare of society. As an academician and researcher, one of my goals is to grow my network of collaborators, partners, and other stakeholders and enhance my influence and visibility in the field.
+
+  
 </div>
 
 
