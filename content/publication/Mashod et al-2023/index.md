@@ -38,5 +38,20 @@ publication: '*RISUS-Journal on Innovation and Sustainability, 14*(1), 19-35'
 links:
   - name: Open Access PDF
     url: '#contact'
+# Summary. An optional shortened abstract.
+summary: ""
+
+tags:
+- Psychological capital
+- Graduate employability
+- Grit personality trait
+
+featured: false
+
+links:
+  - name: Open Access PDF
+    url: 'https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144'
+url_pdf: https://learningteaching.ethz.ch/index.php/lt-eth/article/view/108/144
+url_code: ''
 
 ---
