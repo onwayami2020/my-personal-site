@@ -32,8 +32,8 @@ featured: false
 
 links:
   - name: Contact me for a PDF if you don't have access
-    url: 'https://doi.org/10.4018/978-1-7998-8678-5.ch014'
-url_pdf: https://doi.org/10.4018/978-1-7998-8678-5.ch014
+    url: 'https://link.springer.com/book/10.1007/978-3-031-26956-1'
+url_pdf: https://link.springer.com/book/10.1007/978-3-031-26956-1
 url_code: ''
 url_dataset: ''
 url_poster: ''
