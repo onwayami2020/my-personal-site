@@ -3,7 +3,7 @@ title: "The mediating role of psychological capital resources between grit and g
 authors:
 - Mashod H
 - Kura K M
-date: "2023-03-27T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-27T00:00:00Z"
