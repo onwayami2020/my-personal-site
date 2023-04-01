@@ -12,7 +12,7 @@ lastmod: 2023-03-27T00:00:00Z
 featured: false
 draft: false
 links:
-  - name: Open access PDF
+  - name: Open Access PDF
 url_pdf: https://revistas.pucsp.br/index.php/risus/article/view/47085/41782
 
 # Featured image
@@ -36,7 +36,7 @@ abstract: '<div class=text-justify> The construct of graduate employability (GE)
 publication: '*RISUS-Journal on Innovation and Sustainability, 14*(1), 19-35'
 
 links:
-  - name: Open access PDF
+  - name: Open Access PDF
     url: '#contact'
 
 ---
