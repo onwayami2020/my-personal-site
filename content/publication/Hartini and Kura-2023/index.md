@@ -16,7 +16,7 @@ publishDate: "2023-03-27T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Digitalisation: Opportunities and Challenges for Business, 2*, 325-2333"
+publication: "*Digitalisation: Opportunities and Challenges for Business*, 2, 325-2333"
 publication_short: ""
 
 abstract: <div class=text-justify>  This paper seeks to determine the inﬂuence of grit on graduate employ- ability (GE) and aims to extend past studies by introducing psychological capital (PsyCap) resources (i.e., hope, self-efﬁcacy, resilience, optimism) as the mediators between grit-GE relationship. This study employed a cross-sectional approach; whereby online questionnaires were distributed to graduates registered under Job- Centre Brunei (JCB). Three hundred and three respondents were analyzed using a partial least square-structural equation model (PLS-SEM). The ﬁndings suggest gritty graduates are more likely to possess higher GE. Furthermore, hope was found to mediate the relationship between grit and GE. The results obtained in this study suggests the acquisition of personal resources such as grit and hope could increase chances of graduate employment. Consequently, GE stakeholders can work together to inculcate these personal resources within graduates. </div>
