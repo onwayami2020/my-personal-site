@@ -1,25 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate'
-subtitle: ''
-summary: ''
+title: "Towards a conceptual framework for the moderating effect of Grit on the relationship between Psychological Capital and Graduate Employability"
 authors:
-- Ahmed U
+- Mashod H
 - Kura K M
-- Umrani W A
-- Pahi M H
-tags: [""]
-categories: []
-date: '2020-08-28'
-doi: "10.1177/0972150919837813"
-lastmod: 2020-08-28T12:54:29+02:00
+- Ringim, K J
+date: "2023-03-27T00:00:00Z"
+doi: "10.23925/2179-3565.2023v14i1p19-35"
+lastmod: 2023-03-27T00:00:00Z
 featured: false
 draft: false
 links:
-  - name: Contact me for a PDF if you don't have journal access
-    url: '#contact'
-url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0972150919837813
+  - name: Open access
+url_pdf: https://revistas.pucsp.br/index.php/risus/article/view/47085/41782
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,14 +29,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [""]
-publishDate: '2020-08-28T10:54:29.262633Z'
+publishDate: '2023-03-27T00:00:00Z'
 publication_types:
 - 2
-abstract: '<div class=text-justify> The purpose of this article is to examine the relationship between developmental human resource (HR) practices and work engagement by focusing on the moderating role of service climate. Specifically, employee training opportunities, career developmental opportunities, and developmental performance appraisal were cast as the key dimensions of developmental HR practices. We used cross-sectional data with survey from 277 employees in six large banks in Pakistan. The results suggest that each of the dimensions of developmental HR practices was positively related to work engagement. Also, service climate was found to moderate the relationship between training opportunities and work engagement. Similarly, results showed that service climate moderated relationship between career developmental opportunities and work engagement. Regarding the practical implications, results suggest that policymakers should consider enriching HR factors by providing supportive environment, feedback and service climate to enhance employee engagement. In terms of originality, we contended that, to date, there is paucity of empirical study linking developmental HR practices to employees’ work engagement. Hence, the present study addressed this gap by examining the relationship between developmental HR practices and work engagement, as well as the boundary condition on these relationships. </div>'
+abstract: '<div class=text-justify> The construct of graduate employability (GE) has received a considerable attention from researchers and policy makers because of its importance in attaining the national economic agenda. Human resource management researchers have identified and examined several antecedents of employability. To date, some of the factors that have been considered include soft skills, communication skills and problem-solving skills, among others. Despite this research efforts, only few studies have attempted to consider the influence of psychological capital (PsyCap) on GE. Even if any, they have reported conflicting findings. Therefore, a moderating variable is suggested. This paper proposes grit as potential moderator on the relationship between PsyCap and graduate employability. </div>'
 publication: '*Global Business Review, 21*(1), 31-53'
 
 links:
-  - name: Contact me for a PDF if you don't have journal access
+  - name: Open access
     url: '#contact'
 
 ---
