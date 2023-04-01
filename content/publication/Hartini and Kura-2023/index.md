@@ -4,7 +4,7 @@ authors:
 - Mashod H
 - Kura K M
 date: "2023-03-27T00:00:00Z"
-doi: "https://doi.org/10.1007/978-3-031-26956-1"
+doi: "10.1007/978-3-031-26956-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-27T00:00:00Z"
