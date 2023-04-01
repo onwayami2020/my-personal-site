@@ -17,7 +17,7 @@ publishDate: "2021-08-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In P. Ordóñez de Pablos (Ed.), *Handbook of Research on Developing Circular, Digital, and Green Economies in Asia*, 243--271"
+publication: "In P. Ordóñez de Pablos (Eds.), *Handbook of Research on Developing Circular, Digital, and Green Economies in Asia*, 243--271"
 publication_short: ""
 
 abstract: <div class=text-justify>  With the high demands to provide service quality, growing workforce, and globalization of economy, HR has transformed into an inevitable power of technology that transforms HRM into electronic human resource management (E-HRM) systems. Brunei Darussalam without exception is also practicing E-HRM in the government sector called government employee management system (GEMS). This chapter investigates the user satisfaction of E-HRM by examining the current status of GEMS in Brunei Darussalam. The user satisfaction was studied through seven elements- the implementation of E-HRM, training, user-friendliness, infrastructure, data security, technical support, and user support. Qualitative interview and descriptive quantitative method were conducted on HR officers from the public organization. Findings revealed that the GEMS are not able to provide satisfactory system. This chapter has developed a theoretical framework as a recommendation to integrate relevant elements, together with the influence of age, gender, and years of service that impact user satisfaction. </div>
