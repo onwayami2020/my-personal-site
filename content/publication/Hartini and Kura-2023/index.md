@@ -1,5 +1,5 @@
 ---
-title: "The mediating role of psychological capital resources between grit and graduate employability"
+title: "The mediating role of psychological capital resources between grit and graduate employability. In B. Alareeni, A. Hamdan, R. Khamis, & R. El Khoury (Eds.)"
 authors:
 - Mashod H
 - Kura K M
