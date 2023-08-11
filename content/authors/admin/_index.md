@@ -70,7 +70,7 @@ He received his Doctor of Philosophy (Ph.D.) in Human Resource Management from t
   
 Kabiru has published in SCOPUS, Web of Science, ABS Ranking, and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
   
-He is a member of various professional bodies, including the Academy of Management (AOM), British Academy of Management (BAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
+He is a member of various professional bodies, including the Academy of Management (AOM), Australian & New Zealand Academy of Management (ANZAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
 
   
 </div>
