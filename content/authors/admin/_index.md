@@ -70,7 +70,7 @@ He received his Doctor of Philosophy (Ph.D.) in Human Resource Management from t
 
 Kabiru has published several articles in top-tier journals and participated in international conferences and workshops. To give back to the scientific community, he also served as a reviewer and editor for many scholarly journals, including the International Journal of Human Resource Management, Frontiers in Psychology - Organizational Psychology, and SAGE Open.
 
-He has also received several awards, including the Universiti Teknologi Brunei’s Teaching Excellence Award, and Best Paper Award at the 6th International Borneo Business Conference (IBBC) 2014, organized by the Faculty of Business and Economics, University Malaysia Sarawak (UNIMAS), as well as the 3rd International Conference on Business Management (ICBM) 2018
+He has also received several awards, including the Universiti Teknologi Brunei’s Teaching Excellence Award, and Best Paper Award at the 6th International Borneo Business Conference (IBBC) 2014, organized by the Faculty of Business and Economics, University Malaysia Sarawak (UNIMAS), as well as the 3rd International Conference on Business Management (ICBM) 2018.
 
 Kabiru is a member of various professional bodies, including the Academy of Management (AOM), Australian & New Zealand Academy of Management (ANZAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. 
 
