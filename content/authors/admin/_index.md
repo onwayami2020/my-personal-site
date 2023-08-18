@@ -2,14 +2,13 @@
 role: Assistant Professor of HRM & Organizational Behavior
 bio: My expertise lies in understanding, explaining, predicting human behavior in organizational context.
 interests:
-  - Workplace deviance
-  - Counterproductive work behavior
-  - Organizational citizenship behavior
-  - Leadership, and job attitudes
-  - Personality and individual differences
-  - Green workplace behavior
-  - Safety performance
-  - Diversity management
+  - Open Science Practices
+  - Partial Least Squares Path Modeling
+  - Multilevel Regression Modeling
+  - Statistical Analysis with R
+  - Necessary Condition Analysis
+  - Systematic Review and Meta-Analysis
+
 social:
   - icon: envelope
     icon_pack: fas
