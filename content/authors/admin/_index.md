@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/KabiruMaitama4
+    link: https://twitter.com/kmkura
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kabiru-maitama-kura-6272aa34/
