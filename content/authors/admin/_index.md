@@ -35,8 +35,8 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: UTB School of Business, Universiti Teknologi Brunei
-    url: http://www.utb.edu.bn/academic/utb-school-of-business/
+  - name: School of Business
+    url: http://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing/
 education:
   courses:
     - course: PhD in Human Resource Management
