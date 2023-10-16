@@ -36,7 +36,7 @@ social:
     icon: cv
 organizations:
   - name: School of Business
-    url: http://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing/
+    url: http://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en/
 education:
   courses:
     - course: PhD in Human Resource Management
