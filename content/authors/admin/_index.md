@@ -36,7 +36,7 @@ social:
     icon: cv
 organizations:
   - name: School of Business
-    url: https://www.kmkura.com/
+    url: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en/
 education:
   courses:
     - course: PhD in Human Resource Management
