@@ -1,5 +1,5 @@
 ---
-role: Assistant Professor of HRM & Organizational Behavior
+role: Associate Professor of Human Resource Management
 bio: My expertise lies in understanding, explaining, predicting human behavior in organizational context.
 interests:
   - Open Science Practices
@@ -37,8 +37,6 @@ social:
 organizations:
   - name: UTB School of Business, Universiti Teknologi Brunei
     url: http://www.utb.edu.bn/academic/utb-school-of-business/
-  - name: Visiting Associate Professor (Reader), Capital City University Kano, Nigeria
-    url: https://ccuk.edu.ng/
 education:
   courses:
     - course: PhD in Human Resource Management
