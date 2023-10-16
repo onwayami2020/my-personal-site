@@ -61,9 +61,7 @@ email: ""
 ---
 <div class=text-justify> 
 
-Kabiru Maitama Kura is an Industrial-Organizational Psychologist with over 20 years of teaching, research, administrative, and consulting experience. Kabiru is currently an Assistant Professor of Human Resource Management and Organizational Behavior at the UTB School of Business, Universiti Teknologi Brunei. He is also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria. Before joining Universiti Teknologi Brunei, he was a Senior Lecturer/Director School of Remedial and Basic Studies at the Federal Polytechnic Kaura Namoda, Nigeria.
-
-He received his Doctor of Philosophy (Ph.D.) in Human Resource Management from the Universiti Utara Malaysia. His research focuses on workplace deviance, counterproductive work behavior, organizational citizenship behavior, job attitudes, personality and individual differences, leadership, green workplace behavior, safety performance, and diversity management.
+Kabiru Maitama Kura is an Industrial-Organizational Psychologist with over 20 years of teaching, research, administrative, and consulting experience. He received his Doctor of Philosophy (Ph.D.) in Human Resource Management from the Universiti Utara Malaysia. His research focuses on workplace deviance, counterproductive work behavior, organizational citizenship behavior, job attitudes, personality and individual differences, leadership, green workplace behavior, safety performance, and diversity management.
 
 Kabiru has published several articles in top-tier journals and participated in international conferences and workshops. To give back to the scientific community, he also served as a reviewer and editor for many scholarly journals, including the International Journal of Human Resource Management, Frontiers in Psychology - Organizational Psychology, and SAGE Open.
 
