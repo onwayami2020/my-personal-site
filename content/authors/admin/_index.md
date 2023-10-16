@@ -35,7 +35,7 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: Faculty of Business and Logistics
+  - name: School of Business
     url: http://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en/
 education:
   courses:
