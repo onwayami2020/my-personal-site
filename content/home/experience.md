@@ -18,12 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Associate Professor of Human Resource Management"
+  company = "Faculty of Business and Logistics, Bahrain Polytechnic"
+  company_url = "https://www.polytechnic.bh/"
+  location = "Brunei Darussalam"
+  date_start = "2023-10-15"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching
+  * Research
+  * Supervision
+  * Administration
+  """
+  
   title = "Assistant Professor of Organisational Behaviour"
   company = "UTB School of Business, Universiti Teknologi Brunei"
   company_url = "http://www.utb.edu.bn/academics/utb-school-of-business/"
   location = "Brunei Darussalam"
   date_start = "2018-06-02"
-  date_end = ""
+  date_end = "2023-10-13"
   description = """
   Responsibilities include:
   
