@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Supervision
   * Administration
   """
-  
+
   title = "Assistant Professor of Organisational Behaviour"
   company = "UTB School of Business, Universiti Teknologi Brunei"
   company_url = "http://www.utb.edu.bn/academics/utb-school-of-business/"
