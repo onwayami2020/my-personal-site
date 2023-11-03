@@ -19,6 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+
   title = "Associate Professor of Human Resource Management"
   company = "Faculty of Business and Logistics, Bahrain Polytechnic"
   company_url = "https://www.polytechnic.bh/"
