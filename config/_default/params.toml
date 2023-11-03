@@ -89,22 +89,22 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kmkura@gmail.com"
-phone = "+673-2461020"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "UTB School of Business, Universiti Teknologi Brunei", city = "Gadong", region = "BE", postcode = "1410", country = "Brunei Darussalam", country_code = "BN"}
+address = {street = "Faculty of School and Logistics, Bahrain Polytechnic", city = "Isa Town", region = "BH", postcode = "973", country = "Kingdom of Bahrain", country_code = "BH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "4.9778279", longitude = "114.9000285"}
+coordinates = {latitude = "26.16341543573186", longitude = "50.54439589943506"}
 
 # Directions for visitors to locate you.
-directions = "Enter Phase 2 Building and take the stairs to Office 2F.72 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday -Thursday 08:00 to 16:30", "Saturday 08:00 to 16:30"]
+office_hours = ["Sunday -Thursday 08:00 to 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://meet-with-kabiru-maitama-kura.appointlet.com/b/kabiru-maitama-kura"
