@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Faculty of School and Logistics, Bahrain Polytechnic", city = "Isa Town", region = "BH", postcode = "973", country = "Kingdom of Bahrain", country_code = "BH"}
+address = {street = "Faculty of Business and Logistics, Bahrain Polytechnic", city = "Isa Town", region = "BH", postcode = "973", country = "Kingdom of Bahrain", country_code = "BH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
