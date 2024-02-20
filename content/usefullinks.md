@@ -8,10 +8,11 @@ image:
 ---
 
 **The following are some useful links**:
-* [Nigeria High Commission Malaysia](https://www.nigeria.org.my)
 * [Ahmadu Bello University, Nigeria](https://www.abu.edu.ng)
 * [Bayero University Kano, Nigeria](https://www.buk.edu.ng)
-* [Universiti Utara Malaysia](http://www.uum.edu.my)
+* [Universiti Utara Malaysia](https://www.uum.edu.my)
+* [University of North Dakota](https://www.und.edu)
+* [University of Massachusetts Lowell](https://www.uml.edu)
 * [Gaskination's StatWiki](http://statwiki.kolobkreations.com)
 * [James Gaskin – YouTube](http://tiny.cc/lys1tz)
 * [SmartPLS](https://www.smartpls.com)
@@ -23,7 +24,6 @@ image:
 * [Jamovi: Free and Open Statistical Software](https://www.jamovi.org)
 * [JASP open-source statistics program](https://jasp-stats.org)
 * [Wikipedia]( https://en.wikipedia.org/wiki/Main_Page)
-* [UTB Scopus Publications](https://www.scopus.com/results/results.uri?sort=plf-f&src=s&sid=0f37ba32d9b35a5195f28490aa05ef7a&sot=aff&sdt=a&sl=15&s=AF-ID%2860072090%29&origin=AffiliationProfile&editSaveSearch=&txGid=9de367fd5aaf5d30c284abbcdda57e25)
 
 
 Want to support this page for further development? [Buy Me a Coffee Here!]( https://paypal.me/KabiruKura)
