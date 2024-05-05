@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Human Resource Management
       institution: Universiti Utara Malaysia
-      year: 2014
+      year: (AACSB Accredited)
     - course: MSc in Business Administration
       institution: Ahmadu Bello University Zaria, Nigeria
       year: 2012
