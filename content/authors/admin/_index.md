@@ -48,6 +48,9 @@ education:
     - course: Master of Business Administration (MBA)
       institution: Ahmadu Bello University Zaria, Nigeria
       year:
+    - course: Bachelor of Business Administration (BBA)
+      institution: University of North Dakota, United States
+      year:
     - course: BSc in Business Administration
       institution: Bayero University Kano, Nigeria
       year:
