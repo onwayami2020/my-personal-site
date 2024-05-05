@@ -41,16 +41,16 @@ education:
   courses:
     - course: PhD in Human Resource Management
       institution: Universiti Utara Malaysia
-      year: (AACSB Accredited)
+      year:
     - course: MSc in Business Administration
       institution: Ahmadu Bello University Zaria, Nigeria
-      year: (NUC Accredited)
+      year: 
     - course: Master of Business Administration (MBA)
       institution: Ahmadu Bello University Zaria, Nigeria
-      year: (NUC Accredited)
+      year:
     - course: BSc in Business Administration
       institution: Bayero University Kano, Nigeria
-      year: (NUC Accredited)
+      year:
 superuser: true
 user_groups:
   - Researchers
