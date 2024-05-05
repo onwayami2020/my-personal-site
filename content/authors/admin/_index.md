@@ -44,13 +44,13 @@ education:
       year: (AACSB Accredited)
     - course: MSc in Business Administration
       institution: Ahmadu Bello University Zaria, Nigeria
-      year: 2012
+      year: (NUC Accredited)
     - course: Master of Business Administration (MBA)
       institution: Ahmadu Bello University Zaria, Nigeria
-      year: 2004
+      year: (NUC Accredited)
     - course: BSc in Business Administration
       institution: Bayero University Kano, Nigeria
-      year: 1997
+      year: (NUC Accredited)
 superuser: true
 user_groups:
   - Researchers
