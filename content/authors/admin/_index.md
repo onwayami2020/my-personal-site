@@ -64,7 +64,7 @@ email: ""
 ---
 <div class=text-justify> 
 
-Dr. Kabiru Maitama Kura is an Industrial-Organizational Psychologist with over 20 years of teaching, research, administrative, and consulting experience. Dr. Kabiru is currently an Associate Professor of Human Resource Management at the School of Business, Bahrain Polytechnic. Before accepting his current academic role at Bahrain Polytechnic, Dr. Kabiru was an Assistant Professor of Human Resource Management and Organizational Behavior at the UTB School of Business, Universiti Teknologi Brunei. He was also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria. 
+Kabiru Maitama Kura is an Associate Professor of Human Resource Management at the School of Business, Bahrain Polytechnic, with extensive teaching, research, administrative, and consulting experience. Before accepting his current academic role at Bahrain Polytechnic, Dr. Kabiru was an Assistant Professor of Human Resource Management and Organizational Behavior at the UTB School of Business, Universiti Teknologi Brunei. He was also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria. 
 
 His academic career began at the Federal Polytechnic Kaura Namoda, Nigeria, where he rose to the position of Senior Lecturer. Beyond his teaching responsibilities, Dr. Kabiru also assumed the Director of the School of Remedial and Basic Studies role at Federal Polytechnic, Kaura Namoda, Nigeria.
 
