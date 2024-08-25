@@ -70,7 +70,7 @@ His academic career began at the Federal Polytechnic, Kaura Namoda, Nigeria, whe
 
 Kabiru received his Doctor of Philosophy (Ph.D.) in Human Resource Management from the Universiti Utara Malaysia. His research focuses on workplace deviance, counterproductive work behavior, organizational citizenship behavior, job attitudes, personality and individual differences, leadership, green workplace behavior, safety performance, and diversity management.
 
-Kabiru has published articles in top-tier journals and participated in international conferences and workshops. To give back to the scientific community, he also served as a reviewer and editor for many scholarly journals, including the International Journal of Human Resource Management, Frontiers in Psychology - Organizational Psychology, and SAGE Open.
+Kabiru has published articles in reputable journals and participated in international conferences and workshops. To give back to the scientific community, he also served as a reviewer and editor for many scholarly journals, including the International Journal of Human Resource Management, Frontiers in Psychology - Organizational Psychology, and SAGE Open.
 
 He has also received several awards, including the Universiti Teknologi Brunei’s Teaching Excellence Award and Best Paper Award at the 6th International Borneo Business Conference (IBBC) 2014, organized by the Faculty of Business and Economics, University Malaysia Sarawak (UNIMAS), and the 3rd International Conference on Business Management (ICBM) 2018.
 
