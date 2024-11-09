@@ -30,7 +30,7 @@ featured: false
 links:
   - name: Open Access PDF 
     url: 'https://www.sciencedirect.com/science/article/pii/S2352340924004207'
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2352340924004207/pdfft?md5=2685c700a099e86d2af887ec1e5ba184&pid=1-s2.0-S2352340924004207-main.pdf
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2352340924004207
 url_code: ''
 url_dataset: ''
 url_poster: ''
