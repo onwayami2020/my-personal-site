@@ -74,7 +74,7 @@ Kabiru has published articles in reputable journals and participated in internat
 
 He has also received several awards, including the Universiti Teknologi Brunei’s Teaching Excellence Award and Best Paper Award at the 6th International Borneo Business Conference (IBBC) 2014, organized by the Faculty of Business and Economics, University Malaysia Sarawak (UNIMAS), and the 3rd International Conference on Business Management (ICBM) 2018.
 
-KKabiru is a member of various professional bodies, including the Academy of Management (AOM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria.
+Kabiru is a member of various professional bodies, including the Academy of Management (AOM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria.
 
   
 </div>
